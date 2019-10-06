@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<!--  Version: Multiflex-3 Version 1.8 / Layout-1         -->
+<!--  Date:    May 22, 2007                               -->
+<!--  Author:  G. Wolfgang                                -->
+<!--  License: Fully open source without restrictions.    -->
+<!--           Please keep footer credits with a link to  -->
+<!--           Wolfgang (www.1-2-3-4.info). Thank you!    -->
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="cache-control" content="no-cache" />
+  <meta http-equiv="expires" content="3600" />
+  <meta name="revisit-after" content="2 days" />
+  <meta name="robots" content="index,follow" />
+  <meta name="publisher" content="Your publisher infos here ..." />
+  <meta name="copyright" content="Your copyright infos here ..." />
+  <meta name="author" content="Design: Wolfgang (www.1-2-3-4.info) / Modified: Your Name" />
+  <meta name="distribution" content="global" />
+  <meta name="description" content="Your page description here ..." />
+  <meta name="keywords" content="Your keywords, keywords, keywords, here ..." />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="./css/layout1_setup.css" />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="./css/layout1_text.css" />
+  <link rel="icon" type="image/x-icon" href="./img/myHeaderIcon.gif" />
+  <title>Frank-Peter Schilling: Presentations</title>
+</head>
+
+<!-- Global IE fix to avoid layout crash when single word size wider than column width -->
+<!--[if IE]><style type="text/css"> body {word-wrap: break-word;}</style><![endif]-->
+
+<body>
+
+<!-- Main Page Container -->
+<div class="page-container">
+
+<!--#include virtual="header.shtml" -->
+
+<!-- Breadcrumbs -->
+<div class="header-breadcrumbs">
+<ul>
+  <li><a href="index.shtml">Home</a></li>
+  <li>Presentations</li>
+</ul>
+</div>
+
+</div> <!-- header ends -->
+
+<div class="main">
+
+<div class="main-content">  <!-- left column starts -->
+
+<img class="center" src="images/cms2.jpg" width="100%" alt=""/>
+
+<br>
+
+        
+
+<div class="column1-unit">
+
+<h1 class="pagetitle">Presentations</h1>
+
+
+<ul>
+<li> <a href="#major">Major Talks</a></li>
+<li> <a href="#lectures">Lectures</a></li>
+<li> <a href="#conf">Conference Talks</a></li>
+<li> <a href="#seminar">Seminars</a></li>
+</ul>
+
+<ol>
+
+<a name="major"></a>
+<h1 class="block">Major Talks</h1>
+
+<br>
+
+<!--#include virtual="pubhtml/talks_major_bib.html" -->
+
+
+<a name="lectures"></a>
+<h1 class="block">Lectures</h1>
+
+<br>
+
+<a name="CTEQ03"></a>
+<li>
+"Small-x and Diffractive Physics."</br>
+CTEQ Summer school on QCD analysis and phenomenology (St. Feliu de Guixols, Spain), May, 2003. 
+[ <a href="documents/cteq2003-schilling.pdf">file</a> ]
+</li><p>
+
+<a name="conf"></a>
+<h1 class="block">Conference Talks</h1>
+
+<br>
+
+<!--#include virtual="pubhtml/talks_conf_bib.html" -->
+
+
+
+
+<a name="seminar"></a>
+<h1 class="block">Seminars</h1>
+
+<br>
+
+
+
+<!--#include virtual="pubhtml/talks_sem_bib.html" -->
+
+
+
+
+</ol>
+
+</div>  <!-- column1-unit ends -->
+</div>  <!-- left column ends -->
+
+
+</div>  <!-- main ends -->
+     
+<!-- C. FOOTER AREA -->      
+
+<!--#include virtual="footer.shtml" -->
+
+</div>  <!-- page container ends -->
+  
+</body>
+</html>
+
+
+

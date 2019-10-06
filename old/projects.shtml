@@ -1,0 +1,247 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<!--  Version: Multiflex-3 Version 1.8 / Layout-1         -->
+<!--  Date:    May 22, 2007                               -->
+<!--  Author:  G. Wolfgang                                -->
+<!--  License: Fully open source without restrictions.    -->
+<!--           Please keep footer credits with a link to  -->
+<!--           Wolfgang (www.1-2-3-4.info). Thank you!    -->
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="cache-control" content="no-cache" />
+  <meta http-equiv="expires" content="3600" />
+  <meta name="revisit-after" content="2 days" />
+  <meta name="robots" content="index,follow" />
+  <meta name="publisher" content="Your publisher infos here ..." />
+  <meta name="copyright" content="Your copyright infos here ..." />
+  <meta name="author" content="Design: Wolfgang (www.1-2-3-4.info) / Modified: Your Name" />
+  <meta name="distribution" content="global" />
+  <meta name="description" content="Your page description here ..." />
+  <meta name="keywords" content="Your keywords, keywords, keywords, here ..." />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="./css/layout1_setup.css" />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="./css/layout1_text.css" />
+  <link rel="icon" type="image/x-icon" href="./img/myHeaderIcon.gif" />
+  <title>Frank-Peter Schilling: Project Management and Leadership</title>
+</head>
+
+<!-- Global IE fix to avoid layout crash when single word size wider than column width -->
+<!--[if IE]><style type="text/css"> body {word-wrap: break-word;}</style><![endif]-->
+
+<body>
+
+<!-- Main Page Container -->
+<div class="page-container">
+
+<!--#include virtual="header.shtml" -->
+
+<!-- Breadcrumbs -->
+<div class="header-breadcrumbs">
+<ul>
+  <li><a href="index.shtml">Home</a></li>
+  <li>Project Management and Leadership</li>
+</ul>
+</div>
+
+</div> <!-- header ends -->
+
+<div class="main">
+
+<div class="main-content">  <!-- left column starts -->
+
+<img class="center" src="images/cms2.jpg" width="100%" alt=""/>
+
+<br>
+
+        
+
+<div class="column1-unit">
+
+<h1 class="pagetitle">Project Management and Leadership</h1>
+
+
+<h1 class="block">Project Management Certification</h1>
+
+<br>
+<img class="right" src="images/IPMA_logo.jpg" width="20%" alt=""/>
+
+
+<p>
+I am a certified <strong>IPMA Project Management Associate (IPMA Level D)</strong> with the Swiss association for the certification for persons in management VZPM.
+
+<br><BR>
+
+In addition to the successful management of projects as detailed below, I received formal <strong>training</strong> courses covering the following areas: <strong>project lifecycle, integration management, scope & time management, cost management, management of quality, human resources management, communications, risk management as well as contracts management</strong>.
+
+
+
+</p>
+
+<h1 class="block">Project Management Experience</h1>
+
+
+<h2 class="side">Coordinator, CMS Data Analytics Team (CERN, 2 years, 2010-2011)</h2>
+
+<img class="right" src="images/topquarkevent.jpg" width="20%" alt=""/>
+
+<p>
+The CMS collaboration has built and now operates the CMS detector at the Large Hadron Collider LHC at CERN. Together with the ATLAS experiment, we announced the discovery of the Higgs particle in 2012, which resulted in the Nobel Prize in Physics being awared to the developers of the underlying theory in 2013. CMS is an international collaboration of 3500 physicists and engineers from 200 institutes in 40 countries. The scientific output of the experiment in terms of journal publications is managed by seven "Physics Analysis Groups". 
+<br><br>
+I was coordinator of one these groups, responsible for the physics of the top quark (the heaviest known elementary particle), for a period of two years.
+
+I was appointed for the critical period of the first LHC data taking. Under my leadership the group, consisting of up to 200 scientists world-wide, developed and successfully executed a coherent plan for the exploitation of the first LHC data in the context of top quark physics, resulting in several journal publications and many conference results.
+
+My responsibilities included definition of goals and requirements, schedule planning, formation of teams, solving of conflicts, implementation of organizational structure (meetings and workshops), deployment of collaborative tools (mailing lists, web pages, WIKIs etc.), scientific evaluation of results, quality control, editing publications and reports, and reporting to management.
+
+
+At the end of my convenorship, the top quark program at CMS was in
+excellent shape, and many important new results based on the large LHC dataset were being finalized.
+
+
+</p>
+
+
+
+<h2 class="side">Project leader, CMS Semiconductor Detector Alignment (CERN, 1.5 years, 2006-2007)</h2>
+
+<img class="right" src="images/tracker.jpg" width="20%" alt=""/>
+
+<P>
+The silicon tracker is one of the major components of
+the CMS detector at the LHC. It consists of more than 16000 silicon sensors, comprising several hundred million electronic channels. It is used to precisely measure the trajectories of charged particles created in the LHC collisions.
+
+To achieve nominal performance, each module must be spatially aligned to micrometer precision.
+This requires solving the complex problem of determining about 100000 alignment constants. This represented a challenging problem of unprecedented complexity, crucial for the performance of the whole experiment.
+
+<br><br>
+
+I was appointed project leader of the CMS silicon tracker alignment for a period of 1.5 years.
+
+I coordinated the work of the alignment team, which onsisted of around 20 physicists and engineers from different countries. 
+
+Our primary goal was the development and implementation
+of novel alignment procedures for the initial operation of CMS. 
+Under my leadership, the detector could be aligned
+to very high precision already before the LHC started operation, contrary to common belief.
+
+This was conceived as a major achievement and vital for the successful start-up of CMS.
+
+
+</p>
+
+<h2 class="side">Operation manager, H1 Central Trigger System (DESY, 1 year, 2003-2004)</h2>
+
+
+<img class="right" src="images/trigger.png" width="20%" alt=""/>
+
+<P>
+
+The H1 detector was one of the major experiments at the HERA accelerator at DESY, operating until 2007. The H1 collaboration comprises around 400 physicists and engineers from 40 institutes in 15 countries. The "trigger" is a major component of the detector, responsible for reducing the rate of collisions recorded to manageable levels using custom multi-level filtering algorithms implemented in hard- and software.
+
+<br><br>
+
+
+I served as operation manager for the H1 trigger for one year. For the second
+phase of HERA operation, the collision rate of the accelerator was increased by a factor of three. This led to unprecedented challenges for the trigger in terms of high rates and background levels.  Also, newly built components had to be integrated in the trigger system.
+
+Together with a small expert team, I was responsible for the continuous 24/7 operation of the system, monitoring, problem response as well as optimization, documentation and reporting to management. I could establish a trigger setup
+which made optimal use of the available bandwidth with respect to the requirements of the research program.
+
+</p>
+
+<h2 class="side">Coordinator, H1 data analytics team (DESY, 2 years, 2001-2003)</h2>
+
+<img class="right" src="images/gluon.jpg" width="20%" alt=""/>
+
+<p>
+The scientific work of the 400 member strong H1 collaboration, where the products are publications in international physics journals, is carried out by six physics analysis groups. I was appointed coordinator of one of these groups for a period of two years.
+
+<br><br>
+
+My responsibilities included definition of goals and requirements, schedule planning, formation of teams, solving of conflicts, implementation of organizational structure (meetings), deployment of collaborative tools (mailing lists, web pages), scientific evaluation of results, quality control, editing publications and reports, and reporting to management.
+
+During my time as coordinator, several publications were released and many new results could be presented at major international conferences.
+
+</p>
+
+<h1 class="block">Other leadership roles</h1>
+
+<br>
+
+<img class="right" src="images/topws2012.jpg" width="20%" alt=""/>
+<!-- <img class="right" src="images/wuppertal2011.png" width="20%" alt=""/>
+ -->
+<h2 class="side">Research Infrastructure & Committees</h2>
+
+<ul>
+
+<li>2011-2014: Co-founding member 
+<br>
+<a href="https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TopLHCWG">Top Quark Physics at the LHC Working Group</a> <strong>(TOPLHCWG)</strong>
+<br>
+(TOPLHCWG is a transnational group of experts discussing scientific topics at the forefront of research)
+</li>
+<br>
+<li>2008-2014: Coordinator
+<br>
+<strong>Top quark physics working group of Helmholtz Alliance</strong> <a href="http://www.terascale.de">Physics at the Terascale</a>
+<br>
+(The "Terascale" Alliance bundles German activities in the field of high-energy collider physics. It is a network comprising all relevant German research institutes - 18 universities, two Helmholtz Centres and one Max Planck Institute.)
+
+
+</li>
+<br>
+<li>2008-2012: Member
+<br>
+<a href="http://wa.desy.de">DESY Scientific board (WA)</a>
+<br>
+(DESY WA is a committee which advises the DESY directorate in matters of research policy, cooperation, strategic issuses as well as selection of staff)
+</li>
+
+</ul>
+
+
+<h2 class="side">Workshop & Conference Organization</h2>
+
+<p>
+I co-organized several international conferences and workshops most importantly in the areas of d<strong>eveloping the scientific program, invitation of speakers, defining the agenda as well as chairing of sessions</strong>.
+
+<ul>
+
+<li>Helmholtz Alliance workshops on top quark physics: Co-organizer (<a href="http://indico.desy.de/conferenceDisplay.py?confId=3969">Wuppertal 2011</a> and <a href="http://indico.desy.de/conferenceDisplay.py?confId=5066">Berlin 2012</a>) 
+</li>
+
+<br>
+<li>4th Intl. workshop on top quark physics (<a href="http://top2011.ifae.es">TOP 2011</a>): Member of intl. advisory committee
+</li>
+<br>
+<li>CMS tracker alignment workshop: Co-organizer (2007)
+</li>
+<br>
+<li>12th Intl. workshop on deep-inelastic scattering (<a href="http://www.saske.sk/dis04">DIS 2004</a>): Parallel session convenor
+</li>
+
+</ul>
+
+
+
+
+
+</div>  <!-- column1-unit ends -->
+</div>  <!-- left column ends -->
+
+
+</div>  <!-- main ends -->
+     
+<!-- C. FOOTER AREA -->      
+
+<!--#include virtual="footer.shtml" -->
+
+</div>  <!-- page container ends -->
+  
+</body>
+</html>
+
+
+

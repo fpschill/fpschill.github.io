@@ -1,0 +1,154 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<!--  Version: Multiflex-3 Version 1.8 / Layout-1         -->
+<!--  Date:    May 22, 2007                               -->
+<!--  Author:  G. Wolfgang                                -->
+<!--  License: Fully open source without restrictions.    -->
+<!--           Please keep footer credits with a link to  -->
+<!--           Wolfgang (www.1-2-3-4.info). Thank you!    -->
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="cache-control" content="no-cache" />
+  <meta http-equiv="expires" content="3600" />
+  <meta name="revisit-after" content="2 days" />
+  <meta name="robots" content="index,follow" />
+  <meta name="publisher" content="Your publisher infos here ..." />
+  <meta name="copyright" content="Your copyright infos here ..." />
+  <meta name="author" content="Design: Wolfgang (www.1-2-3-4.info) / Modified: Your Name" />
+  <meta name="distribution" content="global" />
+  <meta name="description" content="Your page description here ..." />
+  <meta name="keywords" content="Your keywords, keywords, keywords, here ..." />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="./css/layout1_setup.css" />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="./css/layout1_text.css" />
+  <link rel="icon" type="image/x-icon" href="./img/myHeaderIcon.gif" />
+  <title>Frank-Peter Schilling: Teaching & Outreach</title>
+</head>
+
+<!-- Global IE fix to avoid layout crash when single word size wider than column width -->
+<!--[if IE]><style type="text/css"> body {word-wrap: break-word;}</style><![endif]-->
+
+<body>
+
+<!-- Main Page Container -->
+<div class="page-container">
+
+<!--#include virtual="header.shtml" -->
+
+<!-- Breadcrumbs -->
+<div class="header-breadcrumbs">
+<ul>
+  <li><a href="index.shtml">Home</a></li>
+  <li>Teaching & Outreach</li>
+</ul>
+</div>
+
+</div> <!-- header ends -->
+
+<div class="main">
+
+<div class="main-content">  <!-- left column starts -->
+
+<img class="center" src="images/CMS.jpg" width="100%" alt=""/>
+
+<br>
+        
+<div class="column1-unit">
+
+<h1 class="pagetitle">Teaching and Outreach</h1>
+
+<h1 class="block">Teaching</h1>
+
+<br>
+<img class="right" src="images/cteq.gif" width="20%" alt=""/>
+<img class="right" src="images/logo_kit.gif" width="20%" alt=""/>
+<img class="right" src="images/signet.gif" width="20%" alt=""/>
+
+
+
+<h2 class="side">Lectures</h2>
+
+
+
+<ul>
+
+<li> Lecturer at CTEQ summer school on QCD analysis and phenomenology (2003)
+</li>
+
+</ul>
+
+<h2 class="side">Seminars, Courses and Tutorials</h2>
+
+
+
+
+<ul>
+
+<li> Hands-on <strong>computer exercises</strong> for lecture on advanced particle physics (Univ. Karlsruhe, 2008)
+</li>
+<br>
+<li> <strong>Seminar</strong> on LHC physics and key experiments of particle physics (Univ. Karlsruhe, 2007)
+</li>
+<br>
+<li> <strong>Tutor</strong> in undergraduate physics course (Univ. Heidelberg, 1998)
+</li>
+<br>
+<li> Instructor in <strong>laboratory courses</strong> for undergraduate students (Univ. Heidelberg, 1997-2000)
+</li>
+
+</ul>
+
+
+<h2 class="side">Supervision of Students</h2>
+
+
+
+<ul>
+
+<li>
+<strong>Supervision of 9 PhD theses</strong>: QCD measurements at H1, b-tagging, top quark and Higgs physics at CMS, Univs. Heidelberg and Karlsruhe (2001-present)
+</li><br>
+<li>
+Supervision of a CERN summer student: CMS tracker alignment (2005)
+</li><br>
+<li>
+Supervision of a Diploma student: QCD Monte Carlo implementation (2000)
+</li>
+
+</ul>
+
+<p>
+
+<h1 class="block">Outreach</h1>
+
+<br>
+<img class="right" src="images/weltmaschine.png" width="20%" alt=""/>
+<img class="right" src="images/cern60.png" width="20%" alt=""/>
+
+<ul>
+
+<li>Guide at the LHC exhibition <strong>Weltmaschine</strong>, Berlin, Germany (2008)</li><br>
+<li>CMS experiment tour guide during <strong>CERN open day</strong> (2008)</li><br>
+<li>Guided tours of CERN for several German student and other groups (since 2007)</li><br>
+<li>Translation of public CERN web pages into German language (2005)</li>
+
+</ul>
+
+
+
+</div> <!-- column ends -->
+
+</div>  <!-- left column ends -->
+
+</div>  <!-- main ends -->
+     
+<!-- C. FOOTER AREA -->      
+
+<!--#include virtual="footer.shtml" -->
+
+</div>  <!-- page container ends -->
+  
+</body>
+</html>

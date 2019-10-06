@@ -1,0 +1,178 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<!--  Version: Multiflex-3 Version 1.8 / Layout-1         -->
+<!--  Date:    May 22, 2007                               -->
+<!--  Author:  G. Wolfgang                                -->
+<!--  License: Fully open source without restrictions.    -->
+<!--           Please keep footer credits with a link to  -->
+<!--           Wolfgang (www.1-2-3-4.info). Thank you!    -->
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="cache-control" content="no-cache" />
+  <meta http-equiv="expires" content="3600" />
+  <meta name="revisit-after" content="2 days" />
+  <meta name="robots" content="index,follow" />
+  <meta name="publisher" content="Your publisher infos here ..." />
+  <meta name="copyright" content="Your copyright infos here ..." />
+  <meta name="author" content="Design: Wolfgang (www.1-2-3-4.info) / Modified: Your Name" />
+  <meta name="distribution" content="global" />
+  <meta name="description" content="Your page description here ..." />
+  <meta name="keywords" content="Your keywords, keywords, keywords, here ..." />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="./css/layout1_setup.css" />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="./css/layout1_text.css" />
+  <link rel="icon" type="image/x-icon" href="./img/myHeaderIcon.gif" />
+  <title>Frank-Peter Schilling: Research</title>
+</head>
+
+<!-- Global IE fix to avoid layout crash when single word size wider than column width -->
+<!--[if IE]><style type="text/css"> body {word-wrap: break-word;}</style><![endif]-->
+
+<body>
+
+<!-- Main Page Container -->
+<div class="page-container">
+
+<!--#include virtual="header.shtml" -->
+
+<!-- Breadcrumbs -->
+<div class="header-breadcrumbs">
+<ul>
+  <li><a href="index.shtml">Home</a></li>
+  <li>Skills & Experience</li>
+</ul>
+</div>
+
+</div> <!-- header ends -->
+
+<div class="main">
+
+<div class="main-content">  <!-- left column starts -->
+
+<img class="center" src="images/CMS.jpg" width="100%" alt=""/>
+
+<br>
+        
+<div class="column1-unit">
+
+<h1 class="pagetitle">Skills & Experience</h1>
+
+
+<h1 class="block">Project Management and Leadership</h1>
+
+</p>
+
+<p>
+
+See also <a href="./projects.shtml">[Project Management]</a>
+
+</p>
+
+<ul>
+
+<li><strong>Certified Project Management Associate (IPMA)</strong></li>
+<br>
+<li><strong>Coordinator</strong> of a large multi-national team of around 200 physicists who successfully analysed the first data of the Large Hadron Collider LHC (CERN, 2 years, 2010-2011) </li>
+<br>
+<li><strong>Project leader</strong>, supervising a team of around 20 experts who successfully commissioned a crucial part of an LHC detector, within design and on time (CERN, 1.5 years, 2006-2007) </li>
+<br>
+<li><strong>Operation Manager</strong>, responsible for the successful 24/7 operation and continuous optimization of a central part of a large physics experiment (DESY, 1 year, 2003-2004) </li>
+<br>
+<li><strong>Coordinator</strong> of a multi-national data analytics team (DESY, 2 years, 2001-2003) </li>
+<br>
+<li>Member of DESY scientific board, which advises the DESY directorate (4 years, 2008-2012) </li>
+<br>
+<li>Co-organized several international scientific workshops and conferences </li>
+<br>
+<li>Co-leader of various international scientific committees and working groups </li>
+
+</ul>
+
+
+<h1 class="block">Scientific and Research Experience</h1>
+
+</p>
+
+<p>
+
+See also <a href="./research.shtml">[Research]</a> and <a href="./teaching.shtml">[Teaching & Outreach]</a> 
+
+</p>
+
+<ul>
+
+<li>Expert in concepts, techniques, commissioning and operation of <strong>experimental equipment in nuclear and particle physics</strong> (silicon detectors, calorimeters, fast signal processing) </li>
+<br>
+<li>Sound knowledge of concepts and techniques of <strong>particle accelerators</strong> </li>
+<br>
+<li>Expert in <strong>quantitative and multivariate analysis</strong> of very large (Petabytes) datasets, <strong>mathematical modelling, simulation, visualisation, data mining and machine learning</strong> </li>
+<br>
+<li>Experienced scientific author: <strong>>75 scientific peer-reviewed journal publications</strong> and reports, see <a href="./pub.shtml">[Publications]</a> for full list </li>
+<br>
+<li>More than <strong>50 presentations at international conferences and workshops</strong>; see <a href="./pub.shtml">[Talks]</a> for full list </li>
+<br>
+<li><strong>Reviewer</strong> for several scientific journals (Phys. Lett. B, Eur. Phys. J. C, J. of High Energy Phys., Int. J. Mod. Phys. A); internal reviewer within intl. scientific collaborations </li>
+<br>
+<li>Teaching experience (lectures, seminars); supervision of graduate students </li>
+<br>
+<li><strong>Science communication and outreach</strong> (open days, guided tours, public web pages at CERN, LHC-exhibition “Weltmaschine” in Berlin) </li>
+<br>
+<li>Experience with <strong>research funding at national and EU level</strong> (grant submission project funding, EU Marie-Curie program; knowledge of HORIZON2020, ERC grant schemes) </li>
+
+</ul>
+
+<h1 class="block">IT Skills</h1>
+
+</p>
+
+<ul>
+<li>Experienced with standard <strong>office software</strong> (POWERPOINT, WORD, EXCEL etc.) </li>
+<br>
+<li>Expert in software tools for <strong>statistical and quantitative analysis</strong> (MATLAB, ROOT, R, MATHEMATICA) </li>
+<br>
+<li>Very experienced with modern distributed computing technologies needed for large scale data analysis, in particular <strong>cloud computing</strong> and complex client/server environments </li>
+<br>
+<li>Proficient with the use of <strong>database applications</strong> (ORACLE, MYSQL) </li>
+<br>
+<li>Advanced experience in <strong>software development</strong> in C++, PYTHON, JAVA, PERL, FORTRAN using tools such as SVN/Eclipse </li>
+<br>
+<li>Proficient in <strong>web design</strong> with HTML/CSS, Content Management Systems and WIKIs </li>
+<br>
+<li>Very familiar with IT environments in Unix (system administrator level) and Windows </li>
+
+</ul>
+
+
+
+<h1 class="block">Languages</h1>
+
+</p>
+
+<ul>
+
+<li><b>German</b> (mother tongue)</li>
+<br>
+<li><b>English</b> (business fluent, used daily at work since 15 years)</li>
+<br>
+<li><b>French</b> (very good, lived since 2004 in French-speaking Switzerland)</li>
+
+</ul>
+
+
+
+</div> <!-- column ends -->
+
+</div>  <!-- left column ends -->
+
+</div>  <!-- main ends -->
+     
+<!-- C. FOOTER AREA -->      
+
+<!--#include virtual="footer.shtml" -->
+
+</div>  <!-- page container ends -->
+  
+</body>
+</html>

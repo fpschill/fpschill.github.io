@@ -1,0 +1,238 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<!--  Version: Multiflex-3 Version 1.8 / Layout-1         -->
+<!--  Date:    May 22, 2007                               -->
+<!--  Author:  G. Wolfgang                                -->
+<!--  License: Fully open source without restrictions.    -->
+<!--           Please keep footer credits with a link to  -->
+<!--           Wolfgang (www.1-2-3-4.info). Thank you!    -->
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="cache-control" content="no-cache" />
+  <meta http-equiv="expires" content="3600" />
+  <meta name="revisit-after" content="2 days" />
+  <meta name="robots" content="index,follow" />
+  <meta name="publisher" content="Your publisher infos here ..." />
+  <meta name="copyright" content="Your copyright infos here ..." />
+  <meta name="author" content="Design: Wolfgang (www.1-2-3-4.info) / Modified: Your Name" />
+  <meta name="distribution" content="global" />
+  <meta name="description" content="Your page description here ..." />
+  <meta name="keywords" content="Your keywords, keywords, keywords, here ..." />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="./css/layout3_setup.css" />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="./css/layout3_text.css" />
+  <link rel="icon" type="image/x-icon" href="./img/myHeaderIcon.gif" />
+  <title>Frank-Peter Schilling: Publications</title>
+</head>
+
+<!-- Global IE fix to avoid layout crash when single word size wider than column width -->
+<!--[if IE]><style type="text/css"> body {word-wrap: break-word;}</style><![endif]-->
+
+<body>
+
+<!-- Main Page Container -->
+<div class="page-container">
+
+<!--#include virtual="header.shtml" -->
+
+<!-- Breadcrumbs -->
+<div class="header-breadcrumbs">
+<ul>
+  <li><a href="index.shtml">Home</a></li>
+  <li>Publications</li>
+</ul>
+</div>
+
+</div> <!-- header ends -->
+
+<div class="main">
+
+<div class="main-content">  <!-- left column starts -->
+        
+<img class="center" src="images/lhctunnel.jpg" width="100%" alt=""/>
+
+<br>
+
+
+
+<div class="column1-unit">
+
+<h1 class="pagetitle">Publications</h1>
+
+
+<ul>
+<li> <a href="#primary">Publications in Refereed Journals</a></li>
+<li> <a href="#other">Public Notes, Proceedings and Documents</a></li>
+<br>
+<li> <a href="#co-author">Publications as Co-author</a></li>
+<li> <a href="#internal">CMS internal notes</a></li>
+</ul>
+
+<ol>
+
+<a name="primary"></a>
+<h1 class="block">Publications in Refereed Journals</h1>
+
+
+<h2>Review Article</h2>
+<!--#include virtual="pubhtml/review_bib.html" -->
+
+<h2>Primary CMS Publications</h2>
+<!--#include virtual="pubhtml/cmspub_bib.html" -->
+
+<h2>CMS Publications as physics working group convenor</h2>
+<!--#include virtual="pubhtml/cmsconv_bib.html" -->
+
+<h2>Primary H1 Publications</h2>
+<!--#include virtual="pubhtml/h1journal_bib.html" -->
+
+<h2>H1 Publications with significant contributions</h2>
+<!--#include virtual="pubhtml/h1sig_bib.html" -->
+
+<h2>H1 Publications as physics working group convenor</h2>
+<!--#include virtual="pubhtml/h1conv_bib.html" -->
+
+
+<a name="other"></a>
+<h1 class="block">Public Notes, Proceedings and Documents</h1>
+
+
+<h1>CMS Collaboration</h1>
+
+<h2>Public Notes</h2>
+<!--#include virtual="pubhtml/cmsnotes_bib.html" -->
+
+<h2>Proceedings</h2>
+<!--#include virtual="pubhtml/cmsproc_bib.html" -->
+
+
+<h1>H1 Collaboration</h1>
+
+<h2>Proceedings</h2>
+<!--#include virtual="pubhtml/h1proc_bib.html" -->
+
+<h2>Conference Contributions</h2>
+<!--#include virtual="pubhtml/h1contrib_bib.html" -->
+
+<h1>Outside Collaborations</h1>
+
+<h2>Proceedings</h2>
+<!--#include virtual="pubhtml/otherproc_bib.html" -->
+
+<h2>Theses</h2>
+<!--#include virtual="pubhtml/theses_bib.html" -->
+
+<h2>Proposals</h2>
+<!--#include virtual="pubhtml/proposals_bib.html" -->
+
+</ol>
+
+<a name="co-author"></a>
+<h1 class="block">Publications as Co-author</h1>
+
+
+<ul>
+
+<h1>CMS Collaboration</h1>
+
+<li>
+All CMS journal publications with collision data  (more than 200 so far)
+<a href="http://inspirehep.net/search?ln=en&ln=en&p=f+p+schilling+and+cn+cms+and+date+after+2009+and+r+CERN+PH+EP&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0">[INSPIRE]</a>
+</li>
+
+<p>
+
+<li>
+23 CMS publications from detector commissioning with cosmic rays in 2008 <a href="http://inspirehep.net/search?ln=en&ln=en&p=f+p+schilling+and+cn+cms+and+r+cft&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0">[INSPIRE]</a>
+</li>
+</ul>
+
+
+<ol>
+
+<h2>In addition:</h2>
+
+
+<!--#include virtual="pubhtml/cmsother_bib.html" -->
+
+</ol>
+<ul>
+
+<h1>H1 Collaboration</h1>
+
+
+<li>
+All H1 journal publications from 1999-2005 (more than 70) <a href="http://inspirehep.net/search?ln=en&ln=en&p=f+p+schilling+and+eisele+and+cn+h1&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0">[INSPIRE]</a>
+</li>
+
+
+</ul>
+
+<a name="internal"></a>
+<h1 class="block">CMS internal notes</h1>
+
+
+<br>
+<p>(for information only, the links are only accessible for CMS members)</p>
+
+
+<ol>
+
+<!--#include virtual="pubhtml/cmsint_bib.html" -->
+
+</ol>
+
+
+
+</div>  <!-- column1-unit ends -->
+</div>  <!-- left column ends -->
+
+<!-- B.3 SUBCONTENT right column start-->
+<div class="main-navigation">
+
+<div class="round-border-topleft"></div>
+
+<h1 class="first">INSPIRE Query</h1>
+<p><br>
+Find my publications in the INSPIRE database
+<ul class="bullett">
+<li> <a href="http://inspirehep.net/search?ln=en&ln=en&p=fin+a+f+p+schilling&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0">INSPIRE query (all)</a>
+</li>
+<li><a href="http://inspirehep.net/search?ln=en&ln=en&p=fin+a+f+p+schilling+and+not+eisele+and+not+rolandi&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0">INSPIRE query (outside CMS or H1)</a>
+</li>
+</ul>
+<p>
+<a href="http://www.inspirehep.net">
+<img class="center" src="images/inspire_logo_hep.png" width=120>
+</a>
+<p>
+
+<h1 class="first">arXiv Query</h1>
+<p><br>
+Find my preprints in the arXiv database:
+<ul class="bullett">
+<li> 
+<a href="http://arxiv.org/find/grp_physics/1/au:+schilling_f_p/0/1/0/all/0/1">arXiv query</a>
+</li>
+</ul>
+<p>
+<a href="http://arxiv.org">
+<img class="center" src="images/arxiv.png" width=120>
+</a>
+
+</div>  <!-- right column ends -->
+
+</div>  <!-- main ends -->
+     
+<!-- C. FOOTER AREA -->      
+
+<!--#include virtual="footer.shtml" -->
+
+</div>  <!-- page container ends -->
+  
+</body>
+</html>
+
+
+

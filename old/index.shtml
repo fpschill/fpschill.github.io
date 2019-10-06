@@ -1,0 +1,229 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<!--  Version: Multiflex-3 Version 1.8 / Layout-4         -->
+<!--  Date:    May 22, 2007                               -->
+<!--  Author:  G. Wolfgang                                -->
+<!--  License: Fully open source without restrictions.    -->
+<!--           Please keep footer credits with a link to  -->
+<!--           Wolfgang (www.1-2-3-4.info). Thank you!    -->
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="cache-control" content="no-cache" />
+  <meta http-equiv="expires" content="3600" />
+  <meta name="revisit-after" content="2 days" />
+  <meta name="robots" content="index,follow" />
+  <meta name="publisher" content="Your publisher infos here ..." />
+  <meta name="copyright" content="Your copyright infos here ..." />
+  <meta name="author" content="Design: Wolfgang (www.1-2-3-4.info) / Modified: Your Name" />
+  <meta name="distribution" content="global" />
+  <meta name="description" content="Your page description here ..." />
+  <meta name="keywords" content="Your keywords, keywords, keywords, here ..." />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="./css/layout4_setup.css" />
+  <link rel="stylesheet" type="text/css" media="screen,projection,print" href="./css/layout4_text.css" />
+  <link rel="icon" type="image/x-icon" href="./img/myHeaderIcon.gif" />
+  <title>Homepage of Frank-Peter Schilling</title>
+</head>
+
+<!-- Global IE fix to avoid layout crash when single word size wider than column width -->
+<!--[if IE]><style type="text/css"> body {word-wrap: break-word;}</style><![endif]-->
+
+<body>
+  <!-- Main Page Container -->
+  <div class="page-container">
+
+  <!--#include virtual="header.shtml" -->
+
+      <!-- A.4 HEADER BREADCRUMBS -->
+
+      <!-- Breadcrumbs -->
+      <div class="header-breadcrumbs">
+        <ul>
+          <li><a href="#">Home</a></li>
+       </ul>
+
+
+
+ 
+     </div>
+    </div>
+
+    <!-- For alternative headers END PASTE here -->
+
+    <!-- B. MAIN -->
+    <div class="main">
+ 
+      <!-- B.1 MAIN NAVIGATION -->
+      <div class="main-navigation">
+
+        <!-- Navigation Level 3 -->
+        <div class="round-border-topright"></div>
+
+ <p>
+ <br>
+<img class="center" src="images/newbw.png" width="70%" alt=""/>
+
+
+
+		  
+<h1>Info & Contact</h1>		  
+
+
+<P>
+<b>Nationality:</b><br>
+German
+<P>
+<b>Location:</b><br>
+Winterthur (Zurich), Switzerland
+<p>		  
+<p><b> Email:</b> <br> 
+<img style='border:0px' src="images/gmail.png" width="80%"> 
+<p>
+<b>PGP <a href="pgp.txt">public key</a></b>	  
+		  
+		  
+<h1>Profiles</h1>
+
+<p/>
+
+<a href="http://www.linkedin.com/in/frankpeterschilling" ><img src="http://www.linkedin.com/img/webpromo/btn_viewmy_120x33.gif" width="120" height="33" border="0" alt="View Dr. Frank-Peter Schilling's profile on LinkedIn"></a>
+
+<p/>
+
+<a href="http://www.xing.com/profile/FrankPeter_Schilling"><img src="http://www.xing.com/img/buttons/13_en_btn.gif" width="120" height="23" alt="XING" border="0" /></a>
+
+
+
+<p/>
+
+      </div>
+ 
+      <!-- B.1 MAIN CONTENT -->
+      <div class="main-content">
+        
+
+<!--#config timefmt="%A %B %d, %Y %H:%M:%S" -->
+<!--#echo var="DATE_LOCAL" -->
+
+
+<br/><br/>
+
+
+       <!-- Content unit - One column -->
+        <div class="column1-unit">
+ 
+        <!-- Pagetitle -->
+        <h1 class="pagetitle">Welcome</h1>
+
+
+<p>
+
+<br>
+
+<b><i>The effort to understand the universe is one of the very few things 
+that lifts human life a little above the level of farce, 
+and gives it some of the grace of tragedy</i></b> -- Steven Weinberg
+
+<br>
+
+
+<p>
+Welcome to my personal homepage. 
+
+I hold a <strong>Ph.D. in physics</strong> and have more than 13 years of experience working at large <strong>international research laboratories</strong> such as <strong>CERN</strong> (Geneva, CH) and <strong>DESY </strong>(Hamburg, D). 
+My research, e.g. at the Large Hadron Collider LHC at CERN, has resulted in many journal publications and conference presentations. Due to my work, I have a deep knowledge of <strong>nuclear and particle physics</strong>, in particular in the areas of <strong>silicon detectors, fast signal processing, quantitative data analysis, statistics, software development, big data, multivariate methods and simulation</strong>. I have also made major contributions to the commissioning and operation of large and complex scientific devices. 
+<P/>
+Besides my scientific achievements, I have obtained substantial <strong>leadership and project management</strong> experience within large intl. research collaborations at CERN and DESY, which involved coordinating the work of multi-national teams of scientists. I am a <strong>certified Project Management Associate (IPMA)</strong>.
+<P/>
+I have co-organized several intl. workshops and conferences, and have been member of various intl. working groups and scientific bodies. As such, I am very familiar with <strong>international scientific cooperation</strong>, both at the European and global level. I have a broad knowledge of the various <strong>research funding</strong> instruments, in particular at the European level (Marie-Curie, Horizon2020, ERC). I have also been involved in grant applications for multi-MEUR national research funding.
+
+
+</p>
+
+<p>
+
+
+
+
+
+        </div>
+
+
+
+      </div>
+                
+      <!-- B.3 SUBCONTENT -->
+      <div class="main-subcontent">
+
+	  
+	  
+	  
+<!--        <div class="subcontent-unit-noborder-blue">
+          <div class="round-noborder-topleft"></div><div class="round-noborder-topright"></div>
+          <h1 class="blue">Profiles</h1>
+<p/>
+<p/>
+<a href="http://www.linkedin.com/in/frankpeterschilling" ><img class="center" src="http://www.linkedin.com/img/webpromo/btn_viewmy_120x33.gif" width="120" height="33" border="0" alt="View Dr. Frank-Peter Schilling's profile on LinkedIn"></a>
+<p/>
+<a href="http://www.xing.com/profile/FrankPeter_Schilling"><img  class="center" src="http://www.xing.com/img/buttons/13_en_btn.gif" width="120" height="23" alt="XING" border="0" /></a>
+	  <p/>
+	  
+	        </div> -->
+	
+	
+       <!-- Subcontent unit -->
+        <div class="subcontent-unit-noborder-orange">
+          <div class="round-noborder-topleft"></div><div class="round-noborder-topright"></div>
+          <h1 class="orange">About me</h1>
+ 
+ 
+ <ul>
+ <li>Ph.D. in Physics with 13 years of work experience</li>
+ <li>Research Scientist and Project Manager at CERN</li>
+ <li>Certified Project Management Associate (IPMA)</li>
+ <li>Data Analysis, Statistics, Big Data and IT Expert</li>
+ </ul>
+ 
+ <p/>
+        </div>
+ 
+ 
+ 
+         <!-- Subcontent unit -->
+        <div class="subcontent-unit-noborder-blue">
+          <div class="round-noborder-topleft"></div><div class="round-noborder-topright"></div>
+          <h1 class="blue">Profile Summary</h1>
+ 
+ <ul>
+<li>Ph.D. in Experimental Physics with 13 years of work experience at international scientific organizations and laboratories: CERN (Geneva, CH) and DESY (Hamburg, GER)
+<li>Successfully managed research projects within multi-national teams (IPMA certified)
+<li>Good knowledge of international research landscape and funding instruments
+<li>Expert in quantitative data analysis, statistics, simulation and multi-variate methods
+<li>Proficient in software development, grid computing, modern IT environments and tools
+<li>Business fluent in English, very good French knowledge
+ </ul>
+ 
+ <p/>
+        </div>
+ 
+
+
+
+
+
+      </div>        
+    </div>
+      
+    <!-- C. FOOTER AREA -->      
+
+  <!--#include virtual="footer.shtml" -->
+
+
+  </div> 
+  
+</body>
+</html>
+
+
+
