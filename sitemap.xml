@@ -91,7 +91,7 @@
 <lastmod>2012-06-13T12:28:35+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/files/ai-01-00031.pdf</loc>
+<loc>http://localhost:4000/files/ai2020.pdf</loc>
 <lastmod>2020-11-06T12:58:33+01:00</lastmod>
 </url>
 <url>
@@ -121,6 +121,10 @@
 <url>
 <loc>http://localhost:4000/files/science-higgs.pdf</loc>
 <lastmod>2019-10-16T07:55:48+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/sds2021.pdf</loc>
+<lastmod>2021-04-16T09:56:33+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/talk_aliws06.pdf</loc>
