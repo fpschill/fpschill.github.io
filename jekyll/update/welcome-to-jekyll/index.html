@@ -1,7 +1,7 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.17.2 by Michael Rose
-  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
@@ -14,6 +14,9 @@
 
 
   <meta name="author" content="Dr. Frank-Peter Schilling">
+  
+  <meta property="article:author" content="Dr. Frank-Peter Schilling">
+  
 
 
 <meta property="og:type" content="article">
@@ -63,10 +66,13 @@
 
 
 
+
 <!-- end _includes/seo.html -->
 
 
-<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Frank-Peter Schilling Feed">
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Frank-Peter Schilling Feed">
+
 
 <!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -77,21 +83,8 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="/assets/css/main.css">
-
-<!--[if IE]>
-  <style>
-    /* old IE unsupported flexbox fixes */
-    .greedy-nav .site-title {
-      padding-right: 3em;
-    }
-    .greedy-nav button {
-      position: absolute;
-      top: 0;
-      right: 0;
-      height: 100%;
-    }
-  </style>
-<![endif]-->
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
 
 
 
@@ -105,7 +98,6 @@
 
   <body class="layout--single">
     <nav class="skip-links">
-  <h2 class="screen-reader-text">Skip links</h2>
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
     <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
@@ -129,15 +121,15 @@
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/research/" >Research</a>
+              <a href="/research/">Research</a>
             </li><li class="masthead__menu-item">
-              <a href="/service/" >Service</a>
+              <a href="/service/">Service</a>
             </li><li class="masthead__menu-item">
-              <a href="/teaching/" >Teaching</a>
+              <a href="/teaching/">Teaching</a>
             </li><li class="masthead__menu-item">
-              <a href="/publications/" >Publications</a>
+              <a href="/publications/">Publications</a>
             </li><li class="masthead__menu-item">
-              <a href="/talks/" >Talks</a>
+              <a href="/talks/">Talks</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
@@ -213,8 +205,6 @@
   
     <div class="author__avatar">
       
-
-      
         <img src="/assets/images/scik.jpg" alt="Dr. Frank-Peter Schilling" itemprop="image">
       
     </div>
@@ -246,7 +236,7 @@
           
         
           
-            <li><a href="https://www.linkedin.com/in/frankpeterschilling/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> Linkedin</a></li>
+            <li><a href="https://www.linkedin.com/in/frankpeterschilling/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">Linkedin</span></a></li>
           
         
           
@@ -256,7 +246,7 @@
           
         
           
-            <li><a href="https://github.com/fpschill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+            <li><a href="https://github.com/fpschill" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
           
         
           
@@ -269,7 +259,7 @@
         <li>
           <a href="mailto:scik@zhaw.ch">
             <meta itemprop="email" content="scik@zhaw.ch" />
-            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email
+            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span>
           </a>
         </li>
       
@@ -333,10 +323,11 @@
   </div>
 
 
+
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Welcome to Jekyll!">
     <meta itemprop="description" content="You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.">
-    <meta itemprop="datePublished" content="January 04, 2020">
+    <meta itemprop="datePublished" content="2020-01-04T09:42:59+01:00">
     
 
     <div class="page__inner-wrap">
@@ -345,27 +336,38 @@
           <h1 id="page-title" class="page__title" itemprop="headline">Welcome to Jekyll!
 </h1>
           
-            <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
 
 
-
-
-  less than 1 minute read
-
-</p>
-          
         </header>
       
 
       <section class="page__content" itemprop="text">
         
-        <p>You’ll find this post in your <code class="highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+        <p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>Jekyll requires blog post files to be named according to the following format:</p>
 
-<p><code class="highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
 
-<p>Where <code class="highlighter-rouge">YEAR</code> is a four-digit number, <code class="highlighter-rouge">MONTH</code> and <code class="highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
 
 <p>Jekyll also offers powerful support for code snippets:</p>
 
@@ -390,19 +392,13 @@
 
 
   
-  
-  
 
   <p class="page__taxonomy">
     <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
     <span itemprop="keywords">
     
-      
-      
       <a href="/categories/#jekyll" class="page__taxonomy-item" rel="tag">jekyll</a><span class="sep">, </span>
     
-      
-      
       <a href="/categories/#update" class="page__taxonomy-item" rel="tag">update</a>
     
     </span>
@@ -410,8 +406,10 @@
 
 
         
-          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2020-01-04T09:42:59+01:00">January 04, 2020</time></p>
-        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2020-01-04T09:42:59+01:00">January 4, 2020</time></p>
+
+
       </footer>
 
       <section class="page__share">
@@ -470,18 +468,19 @@
       
     
 
-    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2021 Frank-Peter Schilling. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2022 Frank-Peter Schilling. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>
 
     
   <script src="/assets/js/main.min.js"></script>
-  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
 
 
 
