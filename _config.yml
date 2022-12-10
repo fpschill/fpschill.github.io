@@ -268,7 +268,8 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-
+  - jekyll/scholar
+  - jekyll-last-modified-at
 
 # Archives
 #  Type
@@ -347,6 +348,6 @@ scholar:
   repository: /files
   relative: "/publications"
 
- last-modified-at:
-    date-format: '%d-%b-%y'
+last-modified-at:
+  date-format: '%d-%b-%y'
 
