@@ -259,6 +259,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll/scholar
+  - jekyll-last-modified-at
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -346,12 +347,6 @@ scholar:
   repository: /files
   relative: "/publications"
 
-      
- 
-
-
-
-
-  
-
+ last-modified-at:
+    date-format: '%d-%b-%y'
 
