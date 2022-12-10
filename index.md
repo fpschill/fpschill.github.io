@@ -22,7 +22,6 @@ ZHAW School of Engineering
 Centre for Artificial Intelligence CAI   
 TN03.64 / Technikumstrasse 71  
 CH-8401 Winterthur
-  
-{{ page.last_modified_at }}
+
 
 
