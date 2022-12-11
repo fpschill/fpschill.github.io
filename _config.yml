@@ -39,7 +39,7 @@ title                    : "Frank-Peter Schilling"
 title_separator          : ""
 subtitle                 : #"Senior Scientist, ZHAW" # site tagline that appears below site title in masthead
 name                     : "Frank-Peter Schilling"
-description              : "Personal webpage of Prof. Dr. Frank-Peter Schilling"
+description              : "Personal webpage of Frank-Peter Schilling"
 url                      : "https://fpschill.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
