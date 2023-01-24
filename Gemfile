@@ -37,3 +37,5 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
+# see https://github.com/helaili/jekyll-action/issues/150
+gem "jekyll-sass-converter", "~> 2.0"
