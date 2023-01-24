@@ -18,7 +18,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
       
-      - uses: helaili/jekyll-action@v3       # Choose any one of the Jekyll Actions
+      - uses: helaili/jekyll-action@v2       # Choose any one of the Jekyll Actions
         with:                                # Some relative inputs of your action
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: 'gh-pages'
