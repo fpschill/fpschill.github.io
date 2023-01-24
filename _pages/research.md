@@ -7,6 +7,17 @@ permalink: /research/
 
 ## AI/ML Projects at ZHAW
 
+### OSR4H (2022-)
+
+Development of a Proof of Concept for visual Open Set Recognition (OSR) algorithms applied to a Hematology task, the classification of white blood cells.
+
+### certAInty (2022-)
+
+Certification of AI Systems by an accredited body increases trust, accelerates adoption and enables their use for safety-critical applications. We develop a Certification Scheme comprising specific requirements, criteria, measures, and technical methods for assessing Machine Learning enabled Systems.
+
+### SKACH (2022-)
+
+In this project we use generative deep learning methods (GANs and VAEs) to produce realistic astronomical mock-observations of numerically simulated astrophysical objects, as they will be obseved by the Square Kilometre Array Telescope (SKA). This project contributes to the Swiss-wide activities for SKA of the SKACH Consortium.  
 
 ### AC3T (2022-)
 

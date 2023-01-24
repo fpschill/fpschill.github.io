@@ -7,6 +7,10 @@ permalink: /service/
 
 ## Project Management
 
+- Deputy PM, Project SKACH (Square Kilometre Array Observatory) at ZHAW (2022-)
+
+- Project Manager, Project OSR4H with Roche Diagnostics (2022-)
+
 - Project Manager, Innosuisse Swiss-Korean Project AC3T (2022-)
 
 - Project Manager, Innosuisse Project DIR3CT (2019-2022)

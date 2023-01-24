@@ -7,17 +7,15 @@ permalink: /teaching/
 
 ## Teaching in AI/ML
 
-- Lecture "Artificial Intelligence 1" (ZHAW, Fall 2021)
+- Lecture Module "Deep Learning", CAS Machine Intelligence (ZHAW, Fall 2022)
 
 - Lecture Module "Machine Learning" (STFW, Spring 2021)
 
-- Lecture "Artificial Intelligence 1" (ZHAW, Fall 2020)
+- Seminar "Machine Intelligence Lab", MSc Data Science (ZHAW, Fall 2019)
 
-- Seminar "Machine Intelligence Lab" (ZHAW, Fall 2019)
+- Lecture "Artificial Intelligence 1", BSc Computer Science (ZHAW, Fall 2019, 2020, 2021, 2022)
 
-- Lecture "Artificial Intelligence 1" (ZHAW, Fall 2019)
-
-- Seminar "Artificial Intelligence" (ZHAW, Spring 2019)
+- Seminar "Artificial Intelligence", MSc Data Science (ZHAW, Spring 2019)
 
 
 
