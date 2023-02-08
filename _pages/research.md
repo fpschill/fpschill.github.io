@@ -54,11 +54,11 @@ Search for the Higgs boson in associated WH->lnubb production mode; focus on boo
 use of jet sub-structure and jet energy regression algorithms; multi-variate analysis using NN/BDT. This channel contributed to the
 [observation of the Higgs boson in 2012](https://home.cern/science/physics/higgs-boson), the prediction of which was awarded with the [Nobel Prize in Physics in 2013](https://www.nobelprize.org/prizes/physics/2013/summary/).
 
-{% cite science-higgs --file cmspub %}
-{% cite :2012gu --file cmspub %}
-{% cite Chatrchyan:2013lba  --file cmspub %}
-{% cite hbbpaper --file cmspub %}
-{% cite higgsfermions --file cmspub %}
+{% cite science-higgs --file pubs_journal %}
+{% cite :2012gu --file pubs_journal %}
+{% cite Chatrchyan:2013lba  --file pubs_journal %}
+{% cite hbbpaper --file pubs_journal %}
+{% cite higgsfermions --file pubs_journal %}
 
 
 ### Top Quark Physics (2007-2012)
@@ -66,60 +66,59 @@ use of jet sub-structure and jet energy regression algorithms; multi-variate ana
 
 Convenor of the CMS top quark physics analysis group: steering research program using initial LHC data, carried out by approx 200 physicists from around the world; coordinated several journal publications and many conference results (2010-2011)
 
-{% cite Chatrchyan:2016mqq --file cmsconv %}
-{% cite :2011hk --file cmsconv %}
-{% cite Chatrchyan:2011yy --file cmsconv %}
-{% cite Chatrchyan:2011vp --file cmsconv %}
-{% cite Chatrchyan:2011nb --file cmsconv %}
-{% cite Khachatryan:2010ez --file cmsconv %}
+{% cite Chatrchyan:2016mqq --file pubs_journal %}
+{% cite :2011hk --file pubs_journal %}
+{% cite Chatrchyan:2011yy --file pubs_journal %}
+{% cite Chatrchyan:2011vp --file pubs_journal %}
+{% cite Chatrchyan:2011nb --file pubs_journal %}
+{% cite Khachatryan:2010ez --file pubs_journal %}
 
 Major role in re-discovery of the top quark at the LHC; leading top quark cross section measurements in lepton+jets topologies; first journal publication of CMS using this channel (since 2009)
 
-{% cite Chatrchyan:2012ep --file cmspub %}
-{% cite :2012xv --file cmspub %}
-{% cite Chatrchyan:2011ew --file cmspub %}
+{% cite Chatrchyan:2012ep --file pubs_journal %}
+{% cite :2012xv --file pubs_journal %}
+{% cite Chatrchyan:2011ew --file pubs_journal %}
 
 Simulation studies on early observation of top events; b-tagging in top quark events; preparation of first top cross section measurements (2007-2009)
 
-{% cite top-09-004 --file cmsnotes %}
-{% cite top-09-003 --file cmsnotes %}
-{% cite top-08-005 --file cmsnotes %}
+{% cite top-09-004 --file pubs_conf %}
+{% cite top-09-003 --file pubs_conf %}
+{% cite top-08-005 --file pubs_conf %}
 
 ### Track Reconstruction and b-jet Identification (2004-2009)
 
 
 Identification of b-jets (b-tagging): impact of misalignment on b-tagging performance; development of robust secondary vertex algorithm; supervised development of a generic multivariate framework for b-tagging; implementation of a tertiary vertex finder (2007-2009)
 
-{% cite btv-09-001 --file cmsnotes %}
-{% cite Lampen:2008zz --file cmsnotes %}
-{% cite btv-07-003 --file cmsnotes %}
+{% cite btv-09-001 --file pubs_conf %}
+{% cite Lampen:2008zz --file pubs_conf %}
+{% cite btv-07-003 --file pubs_conf %}
 
 V0 reconstruction: lead developer of a dedicated track seeding and reconstruction algorithm for long-lived K^0_s and Lambda^0 particles (2006)
 
 Tracker Alignment: leading role in CMS silicon tracker alignment (approx. 100,000 unknown parameters); software framework; algorithm studies and application to full tracker; simulation of misalignment and projected startup scenarios; convenor of CMS tracker alignment group (2004-2007)
 
-{% cite Chatrchyan:2009sr --file cmspub %}
-{% cite tifalignment --file cmspub %}
-{% cite Karimaki:2006gh --file cmspub %}
+{% cite Chatrchyan:2009sr --file pubs_journal %}
+{% cite tifalignment --file pubs_journal %}
+{% cite Karimaki:2006gh --file pubs_journal %}
 
 ## Particle Physics with the H1 Experiment at DESY
 
 
 ### QCD Physics (1998-2006)
-
 	
 
 Main analyzer, measurement of the inclusive, triple differential cross section of diffractive DIS processes with unprecedented precision; determination of NLO diffractive PDFs (2001-2006)
 
-{% cite Aktas:2006hy --file h1journal %}
+{% cite Aktas:2006hy --file pubs_journal %}
 
 Implementation of next-to-leading order cross section calculations for diffractive final states using a novel slicing technique (used for theory predictions in several publications) (2003-2004)
 
-{% cite H1prelim-03-015 --file h1contrib %}
+{% cite H1prelim-03-015 --file pubs_conf %}
 
 Primary analyzer, measurement of differential cross sections of diffractive dijet production; detailed comparisons with QCD models (50+ citations) (1998-2001)
 
-{% cite Adloff:2000qi --file h1journal %}
+{% cite Adloff:2000qi --file pubs_journal %}
 
 ### Operations (1998-2004)
 
@@ -136,12 +135,12 @@ Backward Drift Chamber Detector: 24/7 on-call service; data quality monitoring; 
 
 Development of common output format for NLO calculations
 
-{% cite leshouches2009ntuples --file otherproc %}
+{% cite leshouches2009ntuples --file pubs_proc %}
 
 ### HERA-LHC Workshop, DESY and CERN (2004-2006)
 
 Development of a library of diffractive parton distributions; detailed comparisons of experimental data
 
-{% cite schilling-dpdf --file otherproc %}
-{% cite Newman:2005wm --file otherproc %}
+{% cite schilling-dpdf --file pubs_proc %}
+{% cite Newman:2005wm --file pubs_proc %}
 

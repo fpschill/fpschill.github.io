@@ -22,58 +22,22 @@ The following list contains only my most important publications. For a full list
 ## Particle Physics
 
 
-### Invited Review 
+### Journal Publications
 
-{% bibliography --file review %}
+{% bibliography --file pubs_journal %}
 
-### Primary journal publications, CMS collaboration
+### Proceedings
 
-{% bibliography --file cmspub %}
+{% bibliography --file pubs_proc %}
 
-### Journal publications as physics group coordinator, CMS collaboration
 
-{% bibliography --file cmsconv %}
+### Conference Papers and Technical Reports
 
-### Primary journal publications, H1 collaboration
-
-{% bibliography --file h1journal %}
-
-### Journal publications with significant contributions, H1 collaboration
-
-{% bibliography --file h1sig %}
-
-### Journal publications as physics group coordinator, H1 collaboration
-
-{% bibliography --file h1conv %}
-
-### Conference papers, reviewed, CMS collaboration
-
-{% bibliography --file cmsnotes %}
-
-### Conference papers, reviewed, H1 collaboration
-
-{% bibliography --file h1contrib %}
-
-### Proceedings, CMS collaboration
-
-{% bibliography --file cmsproc %}
-
-### Proceedings, H1 collaboration
-
-{% bibliography --file h1proc %}
-
-### Proceedings, other
-
-{% bibliography --file otherproc %}
+{% bibliography --file pubs_conf %}
 
 ### Theses
 
-{% bibliography --file theses %}
-
-### Proposals
-
-{% bibliography --file proposals %}
-
+{% bibliography --file pubs_other %}
 
 
 
