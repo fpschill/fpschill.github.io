@@ -211,6 +211,10 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - publications
+  - "jekyll link"
+  - jekyll.bat
+  - jekyll.txt
 keep_files:
   - .git
   - .svn
@@ -340,12 +344,12 @@ defaults:
 scholar:
   style: ./assets/bibliography/ieee-with-url-mod-v2 #apa
   locale: en
-  source: ./_bibliography
+  source: ./bibliography
   bibliography: "*.bib"
   bibliography_template: bibtemplate
   replace_strings: true
   join_strings:    true
-  repository: /files
+  repository: ./bibliography/files
   relative: "/publications"
 
 last-modified-at:
