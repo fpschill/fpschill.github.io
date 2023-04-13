@@ -6,3 +6,8 @@ vendor
 Gemfile.lock
 
 /publications/publications.aux
+/publications/publications.bbl
+/publications/publications.blg
+/publications/publications.log
+/publications/publications.out
+/publications/publications.synctex.gz
