@@ -1,0 +1,23 @@
+name: Build LaTeX document
+on: [push]
+jobs:
+  build_latex:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' 
+      
+      - run: python publications/bib.py
+
+      - uses: dante-ev/latex-action@latest
+        with:
+          root_file: publications/publications.tex
+          
+      - uses: actions/upload-artifact@v3
+        with:
+          name: my-artifact
+          path: publications/publications.pdf
