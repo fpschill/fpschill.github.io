@@ -14,15 +14,16 @@ jobs:
       - run: pip install pybtex
 
       - run: python bib.py
-        working-directory: publications
+        with:
+          working-directory: publications
 
       - uses: dante-ev/latex-action@latest
-        working-directory: publications
         with:
-          root_file: publications.tex
+         working-directory: publications
+         root_file: publications.tex
           
       - uses: EndBug/add-and-commit@v9
-        working-directory: publications
         with:
+          working-directory: publications
           add: publications.pdf
           author_email: actions@github.com
