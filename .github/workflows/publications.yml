@@ -1,4 +1,4 @@
-name: Build LaTeX document
+name: Build publications.pdf
 on: [push]
 jobs:
   build_latex:
@@ -13,14 +13,14 @@ jobs:
       
       - run: pip install pybtex
 
-      - run: cd publications
-      - run: python bib.py
+      - run: 
+      - run: cd publications && python bib.py
 
       - uses: dante-ev/latex-action@latest
         with:
-          root_file: publications.tex
+          root_file: publications/publications.tex
           
       - uses: EndBug/add-and-commit@v9
         with:
-          add: publications.pdf
+          add: publications/publications.pdf
           author_email: actions@github.com
