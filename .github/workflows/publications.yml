@@ -18,11 +18,10 @@ jobs:
 
       - uses: dante-ev/latex-action@latest
         with:
-         working-directory: publications
+         working_directory: publications
          root_file: publications.tex
           
       - uses: EndBug/add-and-commit@v9
-        with:
-          working-directory: publications
-          add: publications.pdf
+        with: 
+          add: publications/publications.pdf
           author_email: actions@github.com
