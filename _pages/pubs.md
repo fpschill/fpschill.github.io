@@ -16,11 +16,9 @@ The following list contains only my most important publications. For a full list
 
 ### Journal publications, conference papers, proceedings, others
 
-{% bibliography --file zhaw %}
-
+{% bibliography --file pubs_zhaw %}
 
 ## Particle Physics
-
 
 ### Journal Publications
 
