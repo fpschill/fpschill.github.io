@@ -15,9 +15,13 @@ Development of a Proof of Concept for visual Open Set Recognition (OSR) algorith
 
 Certification of AI Systems by an accredited body increases trust, accelerates adoption and enables their use for safety-critical applications. We develop a Certification Scheme comprising specific requirements, criteria, measures, and technical methods for assessing Machine Learning enabled Systems.
 
+{% cite certaintyposter2023 --file pubs_zhaw %}
+
 ### SKACH (2022-)
 
 In this project we use generative deep learning methods (GANs and VAEs) to produce realistic astronomical mock-observations of numerically simulated astrophysical objects, as they will be obseved by the Square Kilometre Array Telescope (SKA). This project contributes to the Swiss-wide activities for SKA of the SKACH Consortium.  
+
+{% cite skaposter2023 --file pubs_zhaw %}
 
 ### AC3T (2022-)
 
@@ -27,6 +31,8 @@ The project enables a novel, combined, adaptive cancer therapy combining tumor t
 
 Project DIR3CT aims at improving the image quality of cone-beam CT images by deep learning the 3D reconstruction from X-ray images end-to-end. This enables a novel cone-beam CT product to be used during radiation therapy and will allow the use of these images for adaptive treatment.
 
+{% cite dir3ct --file pubs_zhaw %}
+{% cite aapm2022 --file pubs_zhaw %}
 
 ### RealScore (2019-2022)
 
@@ -40,8 +46,8 @@ A novel approach for a fully automated food waste management solution for commer
 
 QualitAI researches and develops a device for automatic quality control of industrial products like e.g. cardial ballon catheters. This will be facilitated through innovation in the area of artificial intelligence, especially by analyzing camera images using  Deep Learning.
 
-{% cite itforhealth2019 --file zhaw %}
-{% cite Amirian2020 --file zhaw %}
+{% cite itforhealth2019 --file pubs_zhaw %}
+{% cite Amirian2020 --file pubs_zhaw %}
 
 
 ## Particle Physics with the CMS Experiment at CERN
