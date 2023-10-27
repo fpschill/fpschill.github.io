@@ -1,0 +1,83 @@
+\documentclass[10pt,twoside,a4paper,sans]{report}
+
+% matched to word, all margins 2.0cm
+\usepackage[a4paper,left=2.0cm,right=2.0cm,top=2.7cm,bottom=3.0cm]{geometry}
+
+% fancy headers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\fancyhf{} % clear all header and footer fields
+\fancyhead[L]{\sffamily Frank-Peter Schilling}
+\fancyhead[R]{\sffamily \leftmark}
+\fancyfoot[C]{\sffamily \thepage}
+
+\fancypagestyle{plain}{%
+	\fancyhf{} % clear all header and footer fields
+	\fancyhead[L]{\sffamily Frank-Peter Schilling}
+	\fancyhead[R]{\sffamily \leftmark}
+	\fancyfoot[C]{\sffamily \thepage} % except the center
+}
+
+% sans serif for sections etc.
+\usepackage{sectsty}
+\allsectionsfont{\sffamily}
+\renewcommand{\bf}{\bfseries} 
+
+\usepackage{enumitem}
+\usepackage{xspace}
+
+\usepackage[nodayofweek]{datetime}
+\newdateformat{mydate}{\monthname[\THEMONTH] \THEYEAR}
+
+% spaceing for chapter heading
+\usepackage{titlesec}
+\titleformat{\chapter}[display]{\normalfont\huge\sffamily\bf}{\chaptertitlename\ \thechapter}{20pt}{\Huge\centering}
+% this alters "before" spacing (the second length argument) to 0
+\titlespacing{\chapter}{0pt}{-22pt}{20pt}
+
+% to use url links with bibentry
+\usepackage{bibentry}
+\makeatletter\let\saved@bibitem\@bibitem\makeatother
+\PassOptionsToPackage{hyphens}{url}
+\usepackage[breaklinks=true]{hyperref}
+\makeatletter\let\@bibitem\saved@bibitem\makeatother
+
+% to use ieeetran with bibentry
+\usepackage[retainorgcmds]{IEEEtrantools}
+\begin{filecontents}{dummy.bib}
+	@ieeetranbstctl{BSTcontrol,
+		CTLdash_repeated_names = {no},
+		CTLuse_alt_spacing = {no}}
+\end{filecontents}
+
+\newcounter{enumisave}
+
+\begin{document}
+	
+	\sffamily  % sans serif font
+	
+	\bstctlcite{BSTcontrol} % activate the IEEEtran controls. (to use ieeetran with bibentry, see above)
+	\nobibliography{dummy,
+		../bibliography/pubs_cv}
+	\bibliographystyle{myIEEEtran}
+	
+	\section*{Selected Publications\markboth{Selected Publications}{}}
+	
+	\noindent
+	As of \mydate \today, my {\bf h-index is ca. 155}. The following list contains {\bf only my most important publications}. For a {\bf full list} of my publications, see Google Scholar: 
+	\href{https://scholar.google.com/citations?user=ZgO3g3QAAAAJ}{https://scholar.google.com/citations?user=ZgO3g3QAAAAJ}. 
+	
+	\setcounter{enumisave}{0}
+	
+	%\section*{Artificial Intelligence and Deep Learning}
+	
+	%\subsection*{Journal publications, conference papers, proceedings, others} 
+	
+	\begin{enumerate}
+		\setcounter{enumi}{\value{enumisave}}
+		\input{texbib/pubs_cv_bib.tex}
+		\setcounter{enumisave}{\value{enumi}}
+	\end{enumerate}
+	
+\end{document}

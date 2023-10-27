@@ -4,7 +4,8 @@ from shutil import copy2
 from pybtex.database.input import bibtex
 
 #dir="../../../Bibliography"
-outdir="./bib"
+#outdir="./bib"
+outdir="../bibliography"
 bibdir="./texbib"
 
 # 1) copy files from Jabref directory
