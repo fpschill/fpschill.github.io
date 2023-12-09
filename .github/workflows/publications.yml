@@ -20,6 +20,7 @@ jobs:
         with:
          working_directory: publications
          root_file: publications.tex
+         args: -interaction=nonstopmode -shell-escape
           
       - uses: EndBug/add-and-commit@v9
         with: 
