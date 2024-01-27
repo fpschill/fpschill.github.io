@@ -3,17 +3,24 @@
 @Article{Amirian_2024,
   author           = {Amirian, Mohammadreza and Barco, Daniel and Herzig, Ivo and Schilling, Frank-Peter},
   journal          = {IEEE Access},
-  title            = {Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning - A Review},
+  title            = {{Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning - A Review}},
   year             = {2024},
+  volume =        {12},
+  pages = {10281-10295},
   issn             = {2169-3536},
   doi              = {10.1109/ACCESS.2024.3353195},
   file             = {:files/Artifact_Reduction_in_3D_and_4D_Cone-beam_Computed_Tomography_Images_with_Deep_Learning_-_A_Review.pdf:PDF},
   modificationdate = {2024-01-21T18:04:49},
   publisher        = {Institute of Electrical and Electronics Engineers (IEEE)},
+  abstract = {Deep learning based approaches have been used to improve image quality in cone-beam computed tomography (CBCT), a medical imaging technique often used in applications such as image-guided radiation therapy, implant dentistry or orthopaedics. While deep learning methods have been applied to reduce various types of CBCT image artifacts arising from motion, metal objects, or low-dose acquisition, a comprehensive review summarizing the successes and shortcomings of these approaches, with a primary focus on the type of artifacts rather than the architecture of neural networks, is lacking in the literature. In this review, the data generation and simulation pipelines, as well as artifact reduction techniques are specifically investigated for each type of artifact. We provide an overview of deep learning techniques that have successfully been shown to reduce artifacts in 3D, as well as in time-resolved (4D) CBCT through the use of projection- and/or volume-domain optimizations, or by introducing neural networks directly within the CBCT reconstruction algorithms. Research gaps are identified to suggest avenues for future exploration. One of the key findings of this work is an observed trend towards the use of generative models including GANs and score-based or diffusion models, accompanied with the need for more diverse and open training datasets and simulations.},
+  selected={true},
+  abbr={IEEE Access},
+  bibtex_show={true},
+  dimensions={true},
 }
 
 @Conference{xaimed2023,
-  author    = {Denzel, P. and Brunner, S. and Luley, P.-P. and Frischknecht-Gruber, C. and Reif, M. U. and Schilling, F.-P. and Amini, A. and Repetto, M. and Iranfar, A. and Weng, J. and Chavarriaga, R.},
+author    = {Denzel, Philipp and Brunner, Stefan and Luley, Paul-Philipp and Frischknecht-Gruber, Carmen and Reif, Monika Ulrike and Schilling, Frank-Peter and Amini, Amin and Repetto, Marco and Iranfar, Arman and Weng, Joanna and Chavarriaga, Ricardo},
   booktitle = {Explainable AI in Medicine Workshop, Lugano, Switzerland, November 2023},
   title     = {{A framework for assessing and certifying explainability of health-oriented AI systems}},
   year      = {2023},
@@ -22,7 +29,7 @@
 
 @InProceedings{hammers2023,
   author           = {Denzel, Philipp and Schilling, Frank-Peter and Gavagnin, Elena},
-  booktitle        = {Hammers & Nails 2023 - Swiss Edition, Ascona, Switzerland, October 2023},
+  booktitle        = {Hammers \& Nails 2023 - Swiss Edition, Ascona, Switzerland, October 2023},
   title            = {{Map-to-map translation for SKA mock observations and cosmological simulations}},
   year             = {2023},
   doi              = {10.21256/zhaw-29047},
@@ -41,6 +48,16 @@
   doi              = {10.1002/mp.16405},
   file             = {:files/Medical Physics - 2023 - Amirian - Mitigation of motion?induced artifacts in cone beam computed tomography using deep.pdf:PDF},
   modificationdate = {2024-01-21T18:00:39},
+  dimensions={true},
+  abbr={Med.Phys.},
+  bibtex_show={true},
+  abstract={
+Background: Cone beam computed tomography (CBCT) is often employed on radiation therapy treatment devices (linear accelerators) used in image-guided radiation therapy (IGRT). For each treatment session, it is necessary to obtain the image of the day in order to accurately position the patient and to enable adaptive treatment capabilities including auto-segmentation and dose calculation. Reconstructed CBCT images often suffer from artifacts, in particular those induced by patient motion. Deep-learning based approaches promise ways to mitigate such artifacts.
+Purpose: We propose a novel deep-learning based approach with the goal to reduce motion induced artifacts in CBCT images and improve image quality. It is based on supervised learning and includes neural network architectures employed as pre- and/or post-processing steps during CBCT reconstruction.
+Methods: Our approach is based on deep convolutional neural networks which complement the standard CBCT reconstruction, which is performed either with the analytical Feldkamp-Davis-Kress (FDK) method, or with an iterative algebraic reconstruction technique (SART-TV). The neural networks, which are based on refined U-net architectures, are trained end-to-end in a supervised learning setup. Labeled training data are obtained by means of a motion simulation, which uses the two extreme phases of 4D CT scans, their deformation vector fields, as well as time-dependent amplitude signals as input. The trained networks are validated against ground truth using quantitative metrics, as well as by using real patient CBCT scans for a qualitative evaluation by clinical experts.
+Results: The presented novel approach is able to generalize to unseen data and yields significant reductions in motion induced artifacts as well as improvements in image quality compared with existing state-of-the-art CBCT reconstruction algorithms (up to +6.3 dB and +0.19 improvements in peak signal-to-noise ratio, PSNR, and structural similarity index measure, SSIM, respectively), as evidenced by validation with an unseen test dataset, and confirmed by a clinical evaluation on real patient scans (up to 74% preference for motion artifact reduction over standard reconstruction).
+Conclusions: For the first time, it is demonstrated, also by means of clinical evaluation, that inserting deep neural networks as pre- and post-processing plugins in the existing 3D CBCT reconstruction and trained end-to-end yield significant improvements in image quality and reduction of motion artifacts.
+},
 }
 
 @InProceedings{certaintyposter2023,
@@ -73,6 +90,9 @@
   pages   = {1 -- 20},
   doi     = {10.5445/IR/1000146422},
   file    = {:files/AoDSA_2022b.pdf:PDF},
+  dimensions={true},
+  abbr={AoDS},
+  bibtex_show={true},
 }
 
 @InProceedings{aapm2022,
@@ -105,6 +125,9 @@
 	pages={26-31},
 	doi={10.1109/SDS51136.2021.00012},
 	file    = {:files/sds2021.pdf:PDF},
+    dimensions={true},
+    abbr={IEEE},
+    bibtex_show={true},
 }
 
 
@@ -127,6 +150,9 @@
   pages   = {510--538},
   doi     = {10.3390/ai1040031},
   file    = {:files/ai2020.pdf:PDF},
+  dimensions={true},
+  abbr={MDPI AI},
+  bibtex_show={true},
 }
 
 @proceedings{annpr2020proc,
@@ -137,6 +163,9 @@
   number    = {12294},
   publisher = {Springer},
   doi       = {10.1007/978-3-030-58309-5},
+  abbr={Springer},
+  dimensions={true},
+  bibtex_show={true},
 }
 
 @Article{Amirian2020,

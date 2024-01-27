@@ -1,19 +1,40 @@
 ---
-layout: single
-title: Teaching and Outreach
+layout: page
 permalink: /teaching/
+title: teaching
+description: courses I developed, am responsible for, or teach, and students I supervise.
+nav: true
+nav_order: 6
+toc:
+  sidebar: left
 ---
 
+## Head of studies
+
+
+- Creation and module responsible, "Machine Learning Operations" (BSc, CS & DS, ZHAW, 2023-)
+
+- Co-creation and module responsible, "Computer Vision with Deep Learning" (BSc, CS & DS, ZHAW, 2023-)
+
+- Creation and head of studies, "Generative AI in teaching and continuing education" (ZHAW, 2023-)
+
+- Creation and head of studies, "CAS Advanced ML and MLOps" (ZHAW, 2023-)
+
+- Head of studies, "CAS Machine Intelligence" (ZHAW, 2022-)
 
 ## Teaching in AI/ML
 
-- Lecture Module "Deep Learning", CAS Machine Intelligence (ZHAW, Fall 2022)
+- Lecture "Machine Learning Operations",  BSc Computer Science and Data Science (ZHAW, Spring 2024)
+
+- Lecture "Computer Vision with Deep Learning",  BSc Computer Science and Data Science (ZHAW, Spring 2024)
+
+- Lecture Module "Deep Learning", CAS Machine Intelligence (ZHAW, Fall 2022, 2023)
+
+- Lecture "Artificial Intelligence 1", BSc Computer Science (ZHAW, Fall 2019, 2020, 2021, 2022)
 
 - Lecture Module "Machine Learning" (STFW, Spring 2021)
 
 - Seminar "Machine Intelligence Lab", MSc Data Science (ZHAW, Fall 2019)
-
-- Lecture "Artificial Intelligence 1", BSc Computer Science (ZHAW, Fall 2019, 2020, 2021, 2022)
 
 - Seminar "Artificial Intelligence", MSc Data Science (ZHAW, Spring 2019)
 
@@ -35,24 +56,15 @@ permalink: /teaching/
 
 ## Supervision of Students
 
+- Supervision of master theses in AI (Master of Science in Engineering, ZHAW, 2022-)
 
-- Supervision of 9 PhD theses: QCD measurements at H1, b-tagging, top quark and Higgs physics at CMS 
+- Supervision of PhD theses in AI (ZHAW, with Univ. Zurich, 2022-)
+
+- Supervision of 9 PhD theses in Particle Physics: QCD measurements at H1, b-tagging, top quark and Higgs physics at CMS 
 (Univs. Heidelberg and Karlsruhe, 2001-2014)
 
 - Supervision of a CERN summer student: CMS tracker alignment (CERN, 2005)
 
 - Supervision of a Diploma student: QCD Monte Carlo implementation (Univ. Heidelberg, 2000)
 
-
-## Outreach
-
-
-
-- Guided tours of CERN for several German student and other groups (2007-2013)
-
-- Guide at the LHC exhibition Weltmaschine, Berlin, Germany (2008)
-
-- CMS experiment tour guide during CERN open day (2008)
-
-- Translation of public CERN web pages into German language (2005)
 

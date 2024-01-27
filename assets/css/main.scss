@@ -1,12 +1,20 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-
-$primary-color: navy;
-//$link-color: blue;
-//$footer-background-color: gray;
-
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+// Dimensions
+$max-content-width: {{ site.max_width }};
+
+@import
+  "variables",
+  "themes",
+  "layout",
+  "base",
+  "distill",
+  "cv",
+  "font-awesome/fontawesome",
+  "font-awesome/brands",
+  "font-awesome/solid",
+  "font-awesome/regular"
+;

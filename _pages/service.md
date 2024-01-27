@@ -1,21 +1,26 @@
 ---
-layout: single
-title: Service
+layout: page
 permalink: /service/
+title: service
+description: my other responsibilities.
+nav: true
+nav_order: 6
+toc:
+  sidebar: left
 ---
 
 
 ## Project Management
 
-- Deputy PM, Project SKACH (Square Kilometre Array Observatory) at ZHAW (2022-)
+I am a certified project manager (IPMA, 2015).
 
-- Project Manager, Project OSR4H with Roche Diagnostics (2022-)
+- Deputy PM, Project SKACH (Square Kilometre Array Observatory) at ZHAW (2022-)
 
 - Project Manager, Innosuisse Swiss-Korean Project AC3T (2022-)
 
-- Project Manager, Innosuisse Project DIR3CT (2019-2022)
+- Project Manager, Project OSR4H with Roche Diagnostics (2022-2023)
 
-- IPMA Project Management Certification (2015-)
+- Project Manager, Innosuisse Project DIR3CT (2019-2022)
 
 - Coordinator, CMS Top Quark Physics Analysis Group (CERN, 2010-2011)
 
@@ -28,23 +33,25 @@ permalink: /service/
 
 ## Research Infrastructure & Committees
 
+- Member of expert groups on Data Ethics, Big Data & AI, [data innovation alliance](https://data-innovation.org/) 
+
 - Scientific Coordinator, [PhD programme in Data Science](https://phd-data-science.ch/) (2022-)
 
 - Head, continuing education at CAI (2022-)
 
 - Organizer of [CAI colloquium](https://www.zhaw.ch/en/engineering/institutes-centres/cai/colloquium/) (2021-)
 
-- Organizer of ZHAW [Datalab Seminar](https://www.zhaw.ch/de/forschung/departementsuebergreifende-kooperationen/datalab/datalab-seminar/) (2019-)
+- Organizer of ZHAW [Datalab Seminar](https://www.zhaw.ch/de/forschung/departementsuebergreifende-kooperationen/datalab/datalab-seminar/) (2019-2022)
 
 - Member of breakout group DIZH fellowships, [ZHAW digital](https://www.zhaw.ch/en/about-us/mission-and-strategy/strategic-initiative-zhaw-digital/) (2019-)
 
-- Co-founding member, Top Quark Physics at the LHC Working Group (TOPLHCWG, 2011-2014)  
+- Co-founding member, [Top Quark Physics at the LHC Working Group](https://lpcc.web.cern.ch/index.php/content/lhc-top-wg-wg-top-physics-lhc) (TOPLHCWG, 2011-2014)  
 (TOPLHCWG is a transnational group of experts discussing scientific topics at the forefront of research)
 
-- Coordinator, Top quark physics working group of Helmholtz Alliance Physics at the Terascale (2008-2014)  
+- Coordinator, Top quark physics working group of [Helmholtz Alliance Physics at the Terascale](https://www.terascale.de/) (2008-2014)  
 (The "Terascale" Alliance bundles German activities in the field of high-energy collider physics. It is a network comprising all relevant German research institutes - 18 universities, two Helmholtz Centres and one Max Planck Institute.)
 
-- Advisory Board Member, DESY Scientific board (2008-2012)  
+- Advisory Board Member, [DESY Scientific board](https://wa.desy.de/) (2008-2012)  
 (DESY WA is a committee which advises the DESY directorate in matters of research policy, cooperation, strategic issuses as well as selection of staff)
 
 
@@ -76,11 +83,12 @@ permalink: /service/
 
 ## Networks and Professional Societies
 
-- CLAIRE - Confederation of Laboratories for AI Research in Europe
-- ELLIS - European Lab for Learning and Intelligent Systems
-- ZHAW Datalab, ZHAW Digital Futures Lab
-- EPS - European Physical Society
-- DPG - German Physical Society
+- [data innovation alliance](https://data-innovation.org/) 
+- [CLAIRE](https://claire-ai.org/) - Confederation of Laboratories for AI Research in Europe
+- [ELLIS](https://ellis.eu/) - European Lab for Learning and Intelligent Systems (supporter)
+- [ZHAW Datalab](https://www.zhaw.ch/en/research/inter-school-cooperation/datalab-the-zhaw-data-science-laboratory/), [ZHAW Digital Futures Lab](https://www.zhaw.ch/en/focus-topics/zhaw-digital/digital-futures-lab/), [ZHAW Digital Health Lab](https://www.zhaw.ch/en/research/inter-school-cooperation/digital-health-lab/)
+- [EPS](https://www.eps.org/) - European Physical Society
+- [DPG](https://www.dpg-physik.de/) - German Physical Society
 
 
 
