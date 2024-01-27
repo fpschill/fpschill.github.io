@@ -16,11 +16,11 @@ toc:
 
 - Co-creation and module responsible, "Computer Vision with Deep Learning" (BSc, CS & DS, ZHAW, 2023-)
 
-- Creation and head of studies, "Generative AI in teaching and continuing education" (ZHAW, 2023-)
+- Creation and head of studies, ["Generative AI in teaching and continuing education"](https://www.zhaw.ch/de/engineering/weiterbildung/detail/kurs/wbk-generative-kuenstliche-intelligenz-ki-in-lehre-und-weiterbildung/) (ZHAW, 2023-)
 
-- Creation and head of studies, "CAS Advanced ML and MLOps" (ZHAW, 2023-)
+- Creation and head of studies, ["CAS Advanced ML and MLOps"](https://www.zhaw.ch/de/engineering/weiterbildung/detail/kurs/cas-advanced-machine-learning-and-machine-learning-operations) (ZHAW, 2023-)
 
-- Head of studies, "CAS Machine Intelligence" (ZHAW, 2022-)
+- Head of studies, ["CAS Machine Intelligence"](https://www.zhaw.ch/de/engineering/weiterbildung/detail/kurs/cas-machine-intelligence/) (ZHAW, 2022-)
 
 ## Teaching in AI/ML
 
