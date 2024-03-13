@@ -21,6 +21,9 @@ toc:
 
 Certification of AI Systems by an accredited body increases trust, accelerates adoption and enables their use for safety-critical applications. We develop a Certification Scheme comprising specific requirements, criteria, measures, and technical methods for assessing Machine Learning enabled Systems.
 
+{% cite esrel2024 %}
+{% cite sds2024_cert %}
+{% cite sds2024_mlops %}
 {% cite xaimed2023 %}
 {% cite certaintyposter2023 %}
 
