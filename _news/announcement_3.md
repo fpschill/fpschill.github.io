@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-New website is up! :sparkles: 
+New website is up!
+
+
