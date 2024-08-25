@@ -38,7 +38,7 @@ In this project we use generative deep learning methods (GANs and VAEs) to produ
 
 The project enables a novel, combined, adaptive cancer therapy combining tumor treating field and radiation therapy due to significantly improved static (3D) and time-resolved (4D) low dose Cone Beam Computer Tomography images based on artificial intelligence image reconstruction algorithms. [Link](https://www.zhaw.ch/en/research/research-database/project-detailview/projektid/5134/)
 
-{% cite Amirian_2024 %}
+{% cite amirian_2024 %}
 
 ### OSR4H (2022-2023)
 
@@ -57,7 +57,7 @@ Project DIR3CT aims at improving the image quality of cone-beam CT images by dee
 QualitAI researches and develops a device for automatic quality control of industrial products like e.g. cardial ballon catheters. This will be facilitated through innovation in the area of artificial intelligence, especially by analyzing camera images using  Deep Learning.
 
 {% cite itforhealth2019 %}
-{% cite Amirian2020 %}
+{% cite amirian2020 %}
 
 
 ## Particle Physics with the CMS Experiment at CERN

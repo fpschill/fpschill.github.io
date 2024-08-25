@@ -5,7 +5,7 @@ from pybtex.database.input import bibtex
 
 #dir="../../../Bibliography"
 #outdir="./bib"
-outdir="../bibliography"
+outdir="../../bibliography"
 bibdir="./texbib"
 
 # 1) copy files from Jabref directory
