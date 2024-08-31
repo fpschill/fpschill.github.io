@@ -72,8 +72,8 @@ use of jet sub-structure and jet energy regression algorithms; multi-variate ana
 
 
 {% cite science-higgs  %}
-{% cite :2012gu  %}
-{% cite Chatrchyan:2013lba   %}
+{% cite cms:2012gu  %}
+{% cite chatrchyan:2013lba   %}
 {% cite hbbpaper  %}
 {% cite higgsfermions %}
 
@@ -83,18 +83,18 @@ use of jet sub-structure and jet energy regression algorithms; multi-variate ana
 
 Convenor of the CMS top quark physics analysis group: steering research program using initial LHC data, carried out by approx 200 physicists from around the world; coordinated several journal publications and many conference results (2010-2011)
 
-{% cite Chatrchyan:2016mqq  %}
-{% cite :2011hk  %}
-{% cite Chatrchyan:2011yy  %}
-{% cite Chatrchyan:2011vp  %}
-{% cite Chatrchyan:2011nb  %}
-{% cite Khachatryan:2010ez  %}
+{% cite chatrchyan:2016mqq  %}
+{% cite cms:2011hk  %}
+{% cite chatrchyan:2011yy  %}
+{% cite chatrchyan:2011vp  %}
+{% cite chatrchyan:2011nb  %}
+{% cite khachatryan:2010ez  %}
 
 Major role in re-discovery of the top quark at the LHC; leading top quark cross section measurements in lepton+jets topologies; first journal publication of CMS using this channel (since 2009)
 
-{% cite Chatrchyan:2012ep  %}
-{% cite :2012xv  %}
-{% cite Chatrchyan:2011ew  %}
+{% cite chatrchyan:2012ep  %}
+{% cite cms:2012xv  %}
+{% cite chatrchyan:2011ew  %}
 
 Simulation studies on early observation of top events; b-tagging in top quark events; preparation of first top cross section measurements (2007-2009)
 
@@ -108,16 +108,16 @@ Simulation studies on early observation of top events; b-tagging in top quark ev
 Identification of b-jets (b-tagging): impact of misalignment on b-tagging performance; development of robust secondary vertex algorithm; supervised development of a generic multivariate framework for b-tagging; implementation of a tertiary vertex finder (2007-2009)
 
 {% cite btv-09-001  %}
-{% cite Lampen:2008zz  %}
+{% cite lampen:2008zz  %}
 {% cite btv-07-003  %}
 
 V0 reconstruction: lead developer of a dedicated track seeding and reconstruction algorithm for long-lived K^0_s and Lambda^0 particles (2006)
 
 Tracker Alignment: leading role in CMS silicon tracker alignment (approx. 100,000 unknown parameters); software framework; algorithm studies and application to full tracker; simulation of misalignment and projected startup scenarios; convenor of CMS tracker alignment group (2004-2007)
 
-{% cite Chatrchyan:2009sr  %}
+{% cite chatrchyan:2009sr  %}
 {% cite tifalignment  %}
-{% cite Karimaki:2006gh  %}
+{% cite karimaki:2006gh  %}
 
 ## Particle Physics with the H1 Experiment at DESY
 
@@ -127,7 +127,7 @@ Tracker Alignment: leading role in CMS silicon tracker alignment (approx. 100,00
 
 Main analyzer, measurement of the inclusive, triple differential cross section of diffractive DIS processes with unprecedented precision; determination of NLO diffractive PDFs (2001-2006)
 
-{% cite Aktas:2006hy  %}
+{% cite aktas:2006hy  %}
 
 Implementation of next-to-leading order cross section calculations for diffractive final states using a novel slicing technique (used for theory predictions in several publications) (2003-2004)
 
@@ -135,7 +135,7 @@ Implementation of next-to-leading order cross section calculations for diffracti
 
 Primary analyzer, measurement of differential cross sections of diffractive dijet production; detailed comparisons with QCD models (1998-2001)
 
-{% cite Adloff:2000qi  %}
+{% cite adloff:2000qi  %}
 
 
 ### Operations (1998-2004)
@@ -160,4 +160,4 @@ Development of common output format for NLO calculations
 Development of a library of diffractive parton distributions; detailed comparisons of experimental data
 
 {% cite schilling-dpdf  %}
-{% cite Newman:2005wm  %}
+{% cite newman:2005wm  %}
