@@ -1,1 +1,4 @@
-Sitemap: https://fpschill.github.io//sitemap.xml
+User-agent: *
+Disallow:
+
+Sitemap: https://fpschill.github.io/sitemap.xml
