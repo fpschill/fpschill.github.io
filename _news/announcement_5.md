@@ -6,6 +6,3 @@ related_posts: false
 ---
 
 Our paper on AI certification {% cite sds2024_cert %} won the best paper award at [SDS 2024](https://sds2024.ch/)! :sparkles:
-
-
-

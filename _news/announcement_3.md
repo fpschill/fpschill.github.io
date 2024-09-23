@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 New website is up!
-
-
