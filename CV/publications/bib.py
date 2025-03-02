@@ -26,6 +26,7 @@ for file in files:
     bib_data = parser.parse_file(file)
     with open(bibdir+"/"+name+'_bib.tex', 'w') as f:
         for entry in bib_data.entries.keys():
+#           f.write("\\item\\fullcite{"+entry+"}\\label{"+entry+"}\n")
             f.write("\\item\\bibentry{"+entry+"}\\label{"+entry+"}\n")
         
         
