@@ -1,0 +1,73 @@
+\documentclass[10pt,twoside,a4paper]{report}
+
+% matched to word, all margins 2.0cm
+\usepackage[a4paper,left=2.0cm,right=2.0cm,top=2.7cm,bottom=3.0cm]{geometry}
+
+\renewcommand{\familydefault}{\sfdefault}
+%\usepackage{helvet}
+
+
+\usepackage[nodayofweek]{datetime}
+\newdateformat{mydate}{\monthname[\THEMONTH] \THEYEAR}
+
+\usepackage{underscore}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage[breaklinks=true]{hyperref}
+\usepackage{bibtopic}
+
+\usepackage[retainorgcmds]{IEEEtrantools}
+\begin{filecontents}{dummy.bib}
+@ieeetranbstctl{BSTcontrol,
+	CTLdash_repeated_names = {no},
+	CTLuse_alt_spacing = {no}}
+\end{filecontents}
+
+\begin{document}
+
+\bstctlcite{BSTcontrol} % activate the IEEEtran controls. (to use ieeetran with bibentry, see above)
+
+\bibliographystyle{myieeetran2}
+
+\nocite{*}
+
+\chapter*{Publications}
+
+\noindent
+As of \mydate \today, my {\bf h-index is ca. 160}. The following list contains {\bf only my most important publications}. For a {\bf full list} of my publications, see Google Scholar: \\
+\href{https://scholar.google.com/citations?user=ZgO3g3QAAAAJ}{https://scholar.google.com/citations?user=ZgO3g3QAAAAJ}. 
+
+\section*{Artificial Intelligence and Deep Learning}
+
+\subsection*{Journal publications, conference papers, proceedings, others} 
+
+\begin{btSect}{dummy,../../bibliography/pubs_zhaw}
+	\btPrintNotCited
+\end{btSect}
+
+\section*{Particle Physics}
+
+\subsection*{Journal Publications}
+
+\begin{btSect}{dummy,../../bibliography/pubs_journal}
+	\btPrintNotCited
+\end{btSect}
+
+\subsection*{Proceedings}
+
+\begin{btSect}{dummy,../../bibliography/pubs_proc}
+	\btPrintNotCited
+\end{btSect}
+
+\subsection*{Conference Papers and Technical Reports}
+
+\begin{btSect}{dummy,../../bibliography/pubs_conf}
+	\btPrintNotCited
+\end{btSect}
+
+\subsection*{Theses}
+
+\begin{btSect}{dummy,../../bibliography/pubs_other}
+	\btPrintNotCited
+\end{btSect}
+
+\end{document}
