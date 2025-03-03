@@ -6,6 +6,27 @@
 \renewcommand{\familydefault}{\sfdefault}
 %\usepackage{helvet}
 
+% fancy headers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+%\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\fancyhf{} % clear all header and footer fields
+\fancyhead[L]{\sffamily Frank-Peter Schilling}
+\fancyhead[R]{\sffamily Publications}
+\fancyfoot[C]{\sffamily \thepage}
+
+\fancypagestyle{plain}{
+	\fancyhf{} % clear all header and footer fields
+	\fancyhead[L]{\sffamily Frank-Peter Schilling}
+	\fancyhead[R]{\sffamily Publications}
+	\fancyfoot[C]{\sffamily \thepage} % except the center
+}
+
+% spaceing for chapter heading
+\usepackage{titlesec}
+\titleformat{\chapter}[display]{\normalfont\huge\sffamily\bf}{\chaptertitlename\ \thechapter}{20pt}{\Huge\centering}
+% this alters "before" spacing (the second length argument) to 0
+\titlespacing{\chapter}{0pt}{-22pt}{20pt}
 
 \usepackage[nodayofweek]{datetime}
 \newdateformat{mydate}{\monthname[\THEMONTH] \THEYEAR}
@@ -29,6 +50,7 @@
 \bibliographystyle{myieeetran2}
 
 \nocite{*}
+
 
 \chapter*{Publications}
 
