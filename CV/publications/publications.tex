@@ -1,37 +1,26 @@
-
-\documentclass[11pt,twoside,a4paper]{report}
+\documentclass[10pt,twoside,a4paper]{report}
 
 % matched to word, all margins 2.0cm
 \usepackage[a4paper,left=2.0cm,right=2.0cm,top=2.7cm,bottom=3.0cm]{geometry}
 
-\usepackage{underscore}
+\renewcommand{\familydefault}{\sfdefault}
+%\usepackage{helvet}
 
 % fancy headers
 \usepackage{fancyhdr}
 \pagestyle{fancy}
-\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+%\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
 \fancyhf{} % clear all header and footer fields
 \fancyhead[L]{\sffamily Frank-Peter Schilling}
-\fancyhead[R]{\sffamily \leftmark}
+\fancyhead[R]{\sffamily Publications}
 \fancyfoot[C]{\sffamily \thepage}
 
-\fancypagestyle{plain}{%
-\fancyhf{} % clear all header and footer fields
-\fancyhead[L]{\sffamily Frank-Peter Schilling}
-\fancyhead[R]{\sffamily \leftmark}
-\fancyfoot[C]{\sffamily \thepage} % except the center
+\fancypagestyle{plain}{
+	\fancyhf{} % clear all header and footer fields
+	\fancyhead[L]{\sffamily Frank-Peter Schilling}
+	\fancyhead[R]{\sffamily Publications}
+	\fancyfoot[C]{\sffamily \thepage} % except the center
 }
-
-% sans serif for sections etc.
-\usepackage{sectsty}
-\allsectionsfont{\sffamily}
-\renewcommand{\bf}{\bfseries} 
-
-\usepackage{enumitem}
-\usepackage{xspace}
-
-\usepackage[nodayofweek]{datetime}
-\newdateformat{mydate}{\monthname[\THEMONTH] \THEYEAR}
 
 % spaceing for chapter heading
 \usepackage{titlesec}
@@ -39,14 +28,14 @@
 % this alters "before" spacing (the second length argument) to 0
 \titlespacing{\chapter}{0pt}{-22pt}{20pt}
 
-% to use url links with bibentry
-\usepackage{bibentry}
-\makeatletter\let\saved@bibitem\@bibitem\makeatother
+\usepackage[nodayofweek]{datetime}
+\newdateformat{mydate}{\monthname[\THEMONTH] \THEYEAR}
+
+\usepackage{underscore}
 \PassOptionsToPackage{hyphens}{url}
 \usepackage[breaklinks=true]{hyperref}
-\makeatletter\let\@bibitem\saved@bibitem\makeatother
+\usepackage{bibtopic}
 
-% to use ieeetran with bibentry
 \usepackage[retainorgcmds]{IEEEtrantools}
 \begin{filecontents}{dummy.bib}
 @ieeetranbstctl{BSTcontrol,
@@ -54,74 +43,53 @@
 	CTLuse_alt_spacing = {no}}
 \end{filecontents}
 
-\newcounter{enumisave}
-
 \begin{document}
-
-\sffamily  % sans serif font
-\sloppy
 
 \bstctlcite{BSTcontrol} % activate the IEEEtran controls. (to use ieeetran with bibentry, see above)
 
-\nobibliography{dummy,
-	../../bibliography/pubs_journal,
-	../../bibliography/pubs_conf,
-	../../bibliography/pubs_proc,
-	../../bibliography/pubs_other,
-	../../bibliography/pubs_zhaw}
+\bibliographystyle{myieeetran2}
 
-\bibliographystyle{myIEEEtran}
+\nocite{*}
 
-\chapter*{Publications\markboth{Publications}{}}
+
+\chapter*{Publications}
 
 \noindent
 As of \mydate \today, my {\bf h-index is ca. 160}. The following list contains {\bf only my most important publications}. For a {\bf full list} of my publications, see Google Scholar: \\
 \href{https://scholar.google.com/citations?user=ZgO3g3QAAAAJ}{https://scholar.google.com/citations?user=ZgO3g3QAAAAJ}. 
 
-\setcounter{enumisave}{0}
-
 \section*{Artificial Intelligence and Deep Learning}
 
 \subsection*{Journal publications, conference papers, proceedings, others} 
 
-\begin{enumerate}
-	\setcounter{enumi}{\value{enumisave}}
-	\input{texbib/pubs_zhaw_bib.tex}
-	\setcounter{enumisave}{\value{enumi}}
-\end{enumerate}
+\begin{btSect}{dummy,../../bibliography/pubs_zhaw}
+	\btPrintNotCited
+\end{btSect}
 
 \section*{Particle Physics}
 
-\subsection*{Journal Publications} 
+\subsection*{Journal Publications}
 
-\begin{enumerate}
-	\setcounter{enumi}{\value{enumisave}}
-	\input{texbib/pubs_journal_bib.tex}
-	\setcounter{enumisave}{\value{enumi}}
-\end{enumerate}
+\begin{btSect}{dummy,../../bibliography/pubs_journal}
+	\btPrintNotCited
+\end{btSect}
 
-\subsection*{Proceedings} 
+\subsection*{Proceedings}
 
-\begin{enumerate}
-	\setcounter{enumi}{\value{enumisave}}
-	\input{texbib/pubs_proc_bib.tex}
-	\setcounter{enumisave}{\value{enumi}}
-\end{enumerate}
+\begin{btSect}{dummy,../../bibliography/pubs_proc}
+	\btPrintNotCited
+\end{btSect}
 
 \subsection*{Conference Papers and Technical Reports}
 
-\begin{enumerate}
-	\setcounter{enumi}{\value{enumisave}}
-	\input{texbib/pubs_conf_bib.tex}
-	\setcounter{enumisave}{\value{enumi}}
-\end{enumerate}
+\begin{btSect}{dummy,../../bibliography/pubs_conf}
+	\btPrintNotCited
+\end{btSect}
 
 \subsection*{Theses}
 
-\begin{enumerate}
-	\setcounter{enumi}{\value{enumisave}}
-	\input{texbib/pubs_other_bib}
-	\setcounter{enumisave}{\value{enumi}}
-\end{enumerate}
+\begin{btSect}{dummy,../../bibliography/pubs_other}
+	\btPrintNotCited
+\end{btSect}
 
 \end{document}
