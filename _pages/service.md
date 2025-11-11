@@ -14,13 +14,7 @@ toc:
 
 I am a certified project manager (IPMA, 2015).
 
-- Deputy PM, Project SKACH (Square Kilometre Array Observatory) at ZHAW (2022-)
-
-- Project Manager, Innosuisse Swiss-Korean Project AC3T (2022-)
-
-- Project Manager, Project OSR4H with Roche Diagnostics (2022-2023)
-
-- Project Manager, Innosuisse Project DIR3CT (2019-2022)
+- Project manager, various applied AI research projects at ZHAW (2019-)
 
 - Coordinator, CMS Top Quark Physics Analysis Group (CERN, 2010-2011)
 
@@ -37,7 +31,7 @@ I am a certified project manager (IPMA, 2015).
 
 - Scientific Coordinator, [PhD programme in Data Science](https://phd-data-science.ch/) (2022-)
 
-- Head, continuing education at CAI (2022-)
+- Head, continuing education at CAI (2022-2025)
 
 - Organizer of [CAI colloquium](https://www.zhaw.ch/en/engineering/institutes-centres/cai/colloquium/) (2021-)
 

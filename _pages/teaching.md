@@ -16,27 +16,29 @@ toc:
 
 - Co-creation and module responsible, "Computer Vision with Deep Learning" (BSc, CS & DS, ZHAW, 2023-)
 
-- Creation and head of studies, ["Generative AI in teaching and continuing education"](https://www.zhaw.ch/de/engineering/weiterbildung/detail/kurs/wbk-generative-kuenstliche-intelligenz-ki-in-lehre-und-weiterbildung/) (ZHAW, 2023-)
+- Creation and head of studies, ["Generative AI in teaching and continuing education"](https://www.zhaw.ch/de/engineering/weiterbildung/detail/kurs/wbk-generative-kuenstliche-intelligenz-ki-in-lehre-und-weiterbildung/) (ZHAW, 2023-2025)
 
 - Creation and head of studies, ["CAS Advanced ML and MLOps"](https://www.zhaw.ch/de/engineering/weiterbildung/detail/kurs/cas-advanced-machine-learning-and-machine-learning-operations) (ZHAW, 2023-)
 
-- Head of studies, ["CAS Machine Intelligence"](https://www.zhaw.ch/de/engineering/weiterbildung/detail/kurs/cas-machine-intelligence/) (ZHAW, 2022-)
+- Head of studies, ["CAS Machine Intelligence"](https://www.zhaw.ch/de/engineering/weiterbildung/detail/kurs/cas-machine-intelligence/) (ZHAW, 2022-2025)
 
 ## Teaching in AI/ML
 
-- Lecture "Machine Learning Operations",  BSc Computer Science and Data Science (ZHAW, Spring 2024)
+- Lecture "Machine Learning and Data in Operation",  MSc Master of Science in Engineering (ZHAW, 2025-)
 
-- Lecture "Computer Vision with Deep Learning",  BSc Computer Science and Data Science (ZHAW, Spring 2024)
+- Lecture "Machine Learning Operations",  BSc Computer Science and Data Science (ZHAW, 2024-)
 
-- Lecture Module "Deep Learning", CAS Machine Intelligence (ZHAW, Fall 2022, 2023)
+- Lecture "Computer Vision with Deep Learning",  BSc Computer Science and Data Science (ZHAW, 2024-)
+
+- Lecture Module "Deep Learning", CAS Machine Intelligence (ZHAW, 2022-)
 
 - Lecture "Artificial Intelligence 1", BSc Computer Science (ZHAW, Fall 2019, 2020, 2021, 2022)
 
 - Lecture Module "Machine Learning" (STFW, Spring 2021)
 
-- Seminar "Machine Intelligence Lab", MSc Data Science (ZHAW, Fall 2019)
+- Seminar "Machine Intelligence Lab", MSc Data Science (ZHAW, 2019)
 
-- Seminar "Artificial Intelligence", MSc Data Science (ZHAW, Spring 2019)
+- Seminar "Artificial Intelligence", MSc Data Science (ZHAW, 2019)
 
 
 
