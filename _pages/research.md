@@ -17,34 +17,48 @@ toc:
 ## AI/ML Projects at ZHAW
 
 
-### certAInty (2022-)
 
-Certification of AI Systems by an accredited body increases trust, accelerates adoption and enables their use for safety-critical applications. We develop a Certification Scheme comprising specific requirements, criteria, measures, and technical methods for assessing Machine Learning enabled Systems.
 
-{% cite esrel2024 %}
-{% cite sds2024_cert %}
-{% cite sds2024_mlops %}
-{% cite xaimed2023 %}
-{% cite certaintyposter2023 %}
 
-### SKACH (2022-)
+### Antimicrobial Resistance Tracker (2025-, DIZH)
+
+
+The goal of the project is to strengthen surveillance of antimicrobial resistance in animals and food products, with a focus on international travelers. The project will explore (and quantify the uncertainty of) using AI-based text and image mining techniques to extract data on the prevalence of antimicrobial resistance from thousands of survey documents.
+
+### AI-BRIDGE (2025-, DIZH Structure)
+
+AI-BRIDGE brings responsible AI to the ground by bridging the gap between societal values and development of AI technology and solutions. The AI-BRIDGE Think-and-Do Tank will help organizations to exploit the potential of AI while complying with legal requirements and being compatible with societal expectations on ethical AI.
+
+
+### SKACH (2022-, SERI)
 
 In this project we use generative deep learning methods (GANs and VAEs) to produce realistic astronomical mock-observations of numerically simulated astrophysical objects, as they will be obseved by the Square Kilometre Array Telescope (SKA). This project contributes to the Swiss-wide activities for SKA of the SKACH Consortium.  
 
+{% cite denzel2025galacticalchemy %}
 {% cite hammers2023 %}
 {% cite skaposter2023 %}
 
-### AC3T (2022-)
+### certAInty (2022-2025, Innosuisse)
+
+Certification of AI Systems by an accredited body increases trust, accelerates adoption and enables their use for safety-critical applications. We develop a Certification Scheme comprising specific requirements, criteria, measures, and technical methods for assessing Machine Learning enabled Systems.
+
+{% cite saia2024 %}
+{% cite esrel2024 %}
+{% cite sds2024_cert %}
+{% cite sds2024_mlops %}
+
+### AC3T (2022-2025, Innosuisse)
 
 The project enables a novel, combined, adaptive cancer therapy combining tumor treating field and radiation therapy due to significantly improved static (3D) and time-resolved (4D) low dose Cone Beam Computer Tomography images based on artificial intelligence image reconstruction algorithms. [Link](https://www.zhaw.ch/en/research/research-database/project-detailview/projektid/5134/)
 
+{% cite mindi3d2025 %}
 {% cite amirian_2024 %}
 
-### OSR4H (2022-2023)
+### OSR4H (2022-2023, Roche)
 
 Development of a Proof of Concept for visual Open Set Recognition (OSR) algorithms applied to a Hematology task, the classification of white blood cells.
 
-### DIR3CT (2020-2022)
+### DIR3CT (2020-2022, Innosuisse)
 
 Project DIR3CT aims at improving the image quality of cone-beam CT images by deep learning the 3D reconstruction from X-ray images end-to-end. This enables a novel cone-beam CT product to be used during radiation therapy and will allow the use of these images for adaptive treatment.
 
@@ -52,7 +66,7 @@ Project DIR3CT aims at improving the image quality of cone-beam CT images by dee
 {% cite aapm2022 %}
 
 
-### QualitAI (2018-2020)
+### QualitAI (2018-2020, Innosuisse)
 
 QualitAI researches and develops a device for automatic quality control of industrial products like e.g. cardial ballon catheters. This will be facilitated through innovation in the area of artificial intelligence, especially by analyzing camera images using  Deep Learning.
 

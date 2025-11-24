@@ -9,6 +9,14 @@ toc:
   sidebar: left
 ---
 
+## 2025
+
+- MLOps as Enabler forTrustworthy AI (Meeting DFKI, Winterthur, October 2025)
+
+- Introduction (IEEE Assessor Training, Winterthur, May 2025)
+
+- Overview of the Centre for AI at ZHAW (Greater Zurich Area and Amt für Wirtschaft ZH, Winterthur, March 2025)
+
 ## 2024
 
 - Künstliche Intelligenz: Grundlagen, Einsatzmöglichkeiten, Forschung am CAI der ZHAW (hawa, Winterthur, April 2024)
