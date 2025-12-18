@@ -24,17 +24,17 @@ toc:
 
 ## Teaching in AI/ML
 
-- Lecture "Machine Learning and Data in Operation",  MSc Master of Science in Engineering (ZHAW, 2025-)
+- Lecture "Machine Learning and Data in Operation",  MSc Master of Science in Engineering (ZHAW, 2025, 2026)
 
-- Lecture "Machine Learning Operations",  BSc Computer Science and Data Science (ZHAW, 2024-)
+- Lecture "Machine Learning Operations",  BSc Computer Science and Data Science (ZHAW, 2024, 2025, 2026)
 
-- Lecture "Computer Vision with Deep Learning",  BSc Computer Science and Data Science (ZHAW, 2024-)
+- Lecture "Computer Vision with Deep Learning",  BSc Computer Science and Data Science (ZHAW, 2024, 2025, 2026)
 
-- Lecture Module "Deep Learning", CAS Machine Intelligence (ZHAW, 2022-)
+- Lecture Module "Deep Learning", CAS Machine Intelligence (ZHAW, 2022, 2023, 2024, 2025)
 
-- Lecture "Artificial Intelligence 1", BSc Computer Science (ZHAW, Fall 2019, 2020, 2021, 2022)
+- Lecture "Artificial Intelligence 1", BSc Computer Science (ZHAW, 2019, 2020, 2021, 2022)
 
-- Lecture Module "Machine Learning" (STFW, Spring 2021)
+- Lecture Module "Machine Learning" (STFW, 2021)
 
 - Seminar "Machine Intelligence Lab", MSc Data Science (ZHAW, 2019)
 

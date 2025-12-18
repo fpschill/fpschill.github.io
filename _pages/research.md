@@ -17,22 +17,30 @@ toc:
 ## AI/ML Projects at ZHAW
 
 
+### A data-driven solution that optimizes ankle-foot-orthopedic braces for children (OrthoSense) (2026-, Innosuisse)
 
+OrthoSense by Leg&airy revolutionizes ankle-foot orthotics by turning subjective brace fitting into data- driven care. Embedded sensors capture pressure data, enabling AI driven biomechanical algorithms to tailor each brace’s shape and fit to the individual patient while enabling patients tracking.
 
+[Project](https://www.zhaw.ch/en/research/project/78870)
 
 ### Antimicrobial Resistance Tracker (2025-, DIZH)
 
-
 The goal of the project is to strengthen surveillance of antimicrobial resistance in animals and food products, with a focus on international travelers. The project will explore (and quantify the uncertainty of) using AI-based text and image mining techniques to extract data on the prevalence of antimicrobial resistance from thousands of survey documents.
 
-### AI-BRIDGE (2025-, DIZH Structure)
+[Project](https://www.zhaw.ch/en/research/project/78145)
 
-AI-BRIDGE brings responsible AI to the ground by bridging the gap between societal values and development of AI technology and solutions. The AI-BRIDGE Think-and-Do Tank will help organizations to exploit the potential of AI while complying with legal requirements and being compatible with societal expectations on ethical AI.
 
+### SCRAI (2025-, DIZH Structure)
+
+SCRAI brings responsible AI to the ground by bridging the gap between societal values and development of AI technology and solutions. The AI-BRIDGE Think-and-Do Tank will help organizations to exploit the potential of AI while complying with legal requirements and being compatible with societal expectations on ethical AI.
+
+[Project](https://www.zhaw.ch/en/research/project/76771)
 
 ### SKACH (2022-, SERI)
 
 In this project we use generative deep learning methods (GANs and VAEs) to produce realistic astronomical mock-observations of numerically simulated astrophysical objects, as they will be obseved by the Square Kilometre Array Telescope (SKA). This project contributes to the Swiss-wide activities for SKA of the SKACH Consortium.  
+
+[Project](https://www.zhaw.ch/en/research/project/78055)
 
 {% cite denzel2025galacticalchemy %}
 {% cite hammers2023 %}

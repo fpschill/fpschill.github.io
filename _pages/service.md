@@ -68,8 +68,8 @@ I am a certified project manager (IPMA, 2015).
 ## Reviewing
 
 - Reviewer for ICPR 2024, SERI (Leading House South Asia and Iran), CVPR 2022, AutoML 2022, ANNPR 2022, CVPR 2022, EPIA 2022, IJCAI 2019
-- Guest Editor for [MDPI Computers](https://www.mdpi.com/journal/computers), [MDPI Imaging](https://www.mdpi.com/journal/jimaging)
-- Reviewer for MDPI Computers, MDPI Applied Sciences, MDPI Electronics
+- Guest Editor for [Computers](https://www.mdpi.com/journal/computers), [Imaging](https://www.mdpi.com/journal/jimaging)
+- Reviewer for Computers, Applied Sciences, Electronics
 - Reviewer for Physics Journals: Phys. Lett. B, Eur. Phys. J. C, JHEP, Int. J. Mod. Phys. A
 - Internal reviewer for CMS journal publications (partially as chair) (2008-2014)
 - Internal reviewer for H1 journal publications (2001-2004)
