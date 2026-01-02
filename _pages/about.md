@@ -9,7 +9,7 @@ profile:
   image: scik.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ZHAW School of Engineering</p>
+    <p>Zurich University of Applied Sciences (ZHAW)</p>
     <p>Centre for AI (CAI)</p> 
     <p>Office TN 03.64 </p>
     <p>Technikumstrasse 71</p>
