@@ -27,17 +27,19 @@ I am a certified project manager (IPMA, 2015).
 
 ## Research Infrastructure & Committees
 
-- Member of expert groups on Data Ethics, Big Data & AI, [data innovation alliance](https://data-innovation.org/) 
+- Member of expert groups on Data Ethics, Big Data & AI, [data innovation alliance](https://data-innovation.org/) (2024-)
 
 - Scientific Coordinator, [PhD programme in Data Science](https://phd-data-science.ch/) (2022-)
 
-- Head, continuing education at CAI (2022-2025)
-
 - Organizer of [CAI colloquium](https://www.zhaw.ch/en/engineering/institutes-centres/cai/colloquium/) (2021-)
+
+- Adjunct Professor for AI and Data Science, [Victoria University of Wellington](https://www.wgtn.ac.nz/) (2022-2025)
+
+- Head, continuing education at CAI (2022-2025)
 
 - Organizer of ZHAW [Datalab Seminar](https://www.zhaw.ch/de/forschung/departementsuebergreifende-kooperationen/datalab/datalab-seminar/) (2019-2022)
 
-- Member of breakout group DIZH fellowships, [ZHAW digital](https://www.zhaw.ch/en/about-us/mission-and-strategy/strategic-initiative-zhaw-digital/) (2019-)
+- Member of breakout group DIZH fellowships, [ZHAW digital](https://www.zhaw.ch/en/about-us/mission-and-strategy/strategic-initiative-zhaw-digital/) (2019-2021)
 
 - Co-founding member, [Top Quark Physics at the LHC Working Group](https://lpcc.web.cern.ch/index.php/content/lhc-top-wg-wg-top-physics-lhc) (TOPLHCWG, 2011-2014)  
 (TOPLHCWG is a transnational group of experts discussing scientific topics at the forefront of research)
