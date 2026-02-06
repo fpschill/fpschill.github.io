@@ -37,32 +37,31 @@
 \usepackage{bibtopic}
 
 \usepackage[retainorgcmds]{IEEEtrantools}
-\begin{filecontents}{dummy.bib}
-@ieeetranbstctl{BSTcontrol,
+\begin{filecontents}{bstcontrol.bib}
+@ieeetranbstctl{IEEEexample:BSTcontrol,
 	CTLdash_repeated_names = {no},
 	CTLuse_alt_spacing = {no}}
 \end{filecontents}
 
 \begin{document}
 
-\bstctlcite{BSTcontrol} % activate the IEEEtran controls. (to use ieeetran with bibentry, see above)
+\bstctlcite{IEEEexample:BSTcontrol} % activate the IEEEtran controls. (to use ieeetran with bibentry, see above)
 
 \bibliographystyle{myieeetran2}
 
 \nocite{*}
 
-
 \chapter*{Publications}
 
 \noindent
-As of \mydate \today, my {\bf h-index is ca. 160}. The following list contains {\bf only my most important publications}. For a {\bf full list} of my publications, see Google Scholar: \\
+As of \mydate \today, my {\bf h-index is ca. 165}. The following list contains {\bf only my most important publications}. For a {\bf full list} of my publications, see Google Scholar: \\
 \href{https://scholar.google.com/citations?user=ZgO3g3QAAAAJ}{https://scholar.google.com/citations?user=ZgO3g3QAAAAJ}. 
 
 \section*{Artificial Intelligence and Deep Learning}
 
 \subsection*{Journal publications, conference papers, proceedings, others} 
 
-\begin{btSect}{dummy,../../bibliography/pubs_zhaw}
+\begin{btSect}{bstcontrol,../../bibliography/pubs_zhaw}
 	\btPrintNotCited
 \end{btSect}
 
@@ -70,25 +69,25 @@ As of \mydate \today, my {\bf h-index is ca. 160}. The following list contains {
 
 \subsection*{Journal Publications}
 
-\begin{btSect}{dummy,../../bibliography/pubs_journal}
+\begin{btSect}{bstcontrol,../../bibliography/pubs_journal}
 	\btPrintNotCited
 \end{btSect}
 
 \subsection*{Proceedings}
 
-\begin{btSect}{dummy,../../bibliography/pubs_proc}
+\begin{btSect}{bstcontrol,../../bibliography/pubs_proc}
 	\btPrintNotCited
 \end{btSect}
 
 \subsection*{Conference Papers and Technical Reports}
 
-\begin{btSect}{dummy,../../bibliography/pubs_conf}
+\begin{btSect}{bstcontrol,../../bibliography/pubs_conf}
 	\btPrintNotCited
 \end{btSect}
 
 \subsection*{Theses}
 
-\begin{btSect}{dummy,../../bibliography/pubs_other}
+\begin{btSect}{bstcontrol,../../bibliography/pubs_other}
 	\btPrintNotCited
 \end{btSect}
 
