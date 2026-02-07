@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: courses I developed, am responsible for, or teach, and students I supervise.
+title: Teaching
+description: Courses I developed, am responsible for, or teach, and students I supervise.
 nav: true
 nav_order: 6
 toc:

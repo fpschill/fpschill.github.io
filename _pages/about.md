@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Frank-Peter Schilling
 permalink: /
 subtitle: # personal home page
 

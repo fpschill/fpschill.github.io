@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /service/
-title: service
-description: my other responsibilities.
+title: Service
+description: My other responsibilities.
 nav: true
 nav_order: 6
 toc:
@@ -12,9 +12,11 @@ toc:
 
 ## Project Management
 
-I am a certified project manager (IPMA, 2015).
+- IEEE certifAIed AI ethics lead assessor (2024-)
 
 - Project manager, various applied AI research projects at ZHAW (2019-)
+
+- IPMA certified project manager (2015)
 
 - Coordinator, CMS Top Quark Physics Analysis Group (CERN, 2010-2011)
 
